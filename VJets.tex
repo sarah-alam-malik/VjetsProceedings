@@ -1,0 +1,81 @@
+%\documentclass[12pt,landscape]{report}
+%\documentclass[11pt,twocolumn]{article}
+\documentclass[11pt]{article}
+%\documentclass[landscape]{slides}
+%\usepackage[landscape]{geometry}
+%\usepackage{pdflscape}
+\usepackage{standalone}
+\usepackage{fontspec}
+\usepackage[skip=3pt]{caption}
+\usepackage{graphicx}
+\usepackage{rotating}
+\usepackage{enumerate}%\usepackage{helvet}
+\usepackage{wrapfig}
+\usepackage{sidecap}
+\usepackage[normalem]{ulem} 
+\usepackage{multirow}
+\usepackage{subfigure}
+\usepackage{setspace} 
+\setmainfont{Times}
+\usepackage[a4paper]{geometry}
+\makeatletter
+\def\name{Sarah Alam Malik \hspace{4.2in}}
+\pagestyle{myheadings}
+\markright{\name}
+\thispagestyle{empty}
+
+\renewenvironment{thebibliography}[1]{%
+      \list{\@biblabel{\@arabic\c@enumiv}}%
+           {\settowidth\labelwidth{\@biblabel{#1}}%
+            \leftmargin\labelwidth
+            \advance\leftmargin\labelsep
+            \@openbib@code
+            \usecounter{enumiv}%
+            \setlength{\itemsep}{0pt}
+            \let\p@enumiv\@empty
+            \renewcommand\theenumiv{\@arabic\c@enumiv}}%
+      \sloppy
+      \clubpenalty4000
+      \@clubpenalty \clubpenalty
+      \widowpenalty4000%
+      \sfcode`\.\@m}
+     {\def\@noitemerr
+       {\@latex@warning{Empty `thebibliography' environment}}%
+      \endlist}
+\makeatother
+
+\geometry{top=1.5cm, bottom=1.5cm, left=2.0cm, right=2.0cm}
+%\input{pjchrs2e}       % definitions of useful character commands
+\newcommand{\Zmumuj}   {\mbox{${\mathrm Z}(\rightarrow\mu \mu$)+jets}}
+\newcommand{\Zeej}   {\mbox{${\mathrm Z}(\rightarrow e e$)+jets}}
+\newcommand{\Zllj}   {\mbox{${\mathrm Z}(\rightarrow l l$)+jets}}
+\newcommand{\Zll}   {\mbox{${\mathrm Z}(\rightarrow l l$)}}
+\newcommand{\ttbar}   {\mbox{${t\bar{t}}$}}
+%\newcommand{\Zee}   {\mbox{${\mathrm Z}(\rightarrow e e$)}}
+\newcommand{\Znunuj}   {\mbox{${\mathrm Z}(\rightarrow\nu \nu$)+jets}}
+\newcommand{\Znunu}   {\mbox{${\mathrm Z}(\rightarrow\nu \nu$)}}
+\newcommand{\Wlnuj}   {\mbox{${\mathrm W}(\rightarrow l\nu$)+jets}}
+\newcommand{\Wlnu}   {\mbox{${\mathrm W}(\rightarrow l\nu$)}}
+\newcommand{\Wenuj}   {\mbox{${\mathrm W}(\rightarrow e\nu$)+jets}}
+\newcommand{\pt}{\ensuremath{\mathrm{p_T}}}
+\newcommand{\met}{\ensuremath{\not\!\!E_T}}
+%\newcommand{\Wenu}   {\mbox{${\mathrm W}(\rightarrow e\nu$)}}
+\begin{document}
+\vspace{1in}
+\begin{center}
+  {\Large \bf Pushing the precision frontier at the LHC with V+jets}\\
+  \vspace{0.2in}
+	{\Large \bf Proceedings for the workshop on 'Illuminating standard candles a the LHC: V+jets' held at Imperial College London on April 25th-26th}\\
+\end{center}
+
+\section{Motivation}
+Motivation goes here. hajakdhsajdhkaj
+\begin{thebibliography}{99}
+\bibitem{WZpaper}
+
+{\bf \emph{Ratios of W and Z cross sections at large boson $p_T$ as a constraint on PDFs and background to new physics}}, Sarah Alam Malik and Graeme Watt,  JHEP 1402 (2014) 025. 
+\bibitem{interplay}{\bf \emph{Interplay and Characterization of Dark Matter Searches at Colliders and in Direct Detection Experiments}},
+S. Malik et. al.,arXiv:1409.4075 (2014). Published in Physics of the Dark Universe.
+\end{thebibliography}
+
+\end{document}
