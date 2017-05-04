@@ -1,0 +1,6 @@
+\contentsline {section}{\numberline {1}Motivation}{1}{section.1}
+\contentsline {section}{\numberline {2}Experimental overview of V+jet measurements}{2}{section.2}
+\contentsline {section}{\numberline {3}Summary of theoretical developments}{2}{section.3}
+\contentsline {subsection}{\numberline {3.1}Higher order QCD and EWK corrections}{2}{subsection.3.1}
+\contentsline {section}{\numberline {4}Backgrounds to BSM searches}{7}{section.4}
+\contentsline {section}{\numberline {5}Outcome/wishlist}{7}{section.5}
