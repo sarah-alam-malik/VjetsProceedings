@@ -1,0 +1,10 @@
+\providecommand{\href}[2]{#2}\begingroup\raggedright\begin{thebibliography}{10}
+
+\bibitem{Aprile:2011dd}
+{\bf XENON100} Collaboration, E.~Aprile et~al., {\it {The XENON100 Dark Matter               
+  Experiment}},  {\em Astropart.Phys.} {\bf 35} (2012) 573--590,
+  [\href{http://arxiv.org/abs/1107.2155}{{\tt arXiv:1107.2155}}].
+
+\end{thebibliography}\endgroup
+
+
