@@ -17,7 +17,19 @@
 \newcommand{\Wenuj}   {\mbox{${\mathrm W}(\rightarrow e\nu$)+jets}}
 \newcommand{\pt}{\ensuremath{\mathrm{p_T}}}
 \newcommand{\ptZ}{\ensuremath{\mathrm{p_T^{Z}}}}
+\newcommand{\ptW}{\ensuremath{\mathrm{p_T^{W}}}}
+\newcommand{\Ht}{\ensuremath{\mathrm{H_T}}}
 \newcommand{\met}{\ensuremath{\not\!\!E_T}}
+\newcommand{\PYTHIA}{\textsc{Pythia}}
+\newcommand{\HERWIG}{\textsc{Herwig}}
+\newcommand{\SHERPA}{\textsc{Sherpa}}
+\newcommand{\OPENLOOPS}{\textsc{OpenLoops}}
+\newcommand{\BLACKHAT}{\textsc{Blackhat}}
+\newcommand{\ALPGEN}{\textsc{Alpgen}}
+\newcommand{\FEWZ}{\textsc{FEWZ}}
+\newcommand{\MGNLO}{MADGRAPH$\_$aMC@NLO}
+\newcommand{\MADGRAPH}{\textsc{MadGraph}}
+\newcommand{\zgamma}{\mbox{${\mathrm Z/\gamma}$}}
 %\newcommand{\Wenu}   {\mbox{${\mathrm W}(\rightarrow e\nu$)}}
 \title{ Pushing the precision frontier at the LHC with V+jets}
 %	{\Large \bf Proceedings for the workshop on 'Illuminating standard candles a the LHC: V+jets' held at Imperial College London on April 25th-26th}\\
@@ -55,40 +67,121 @@
 \affiliation[j]{Università di Torino, Via Giuseppe Verdi, 8, 10124 Torino, Italy}
 \affiliation[k]{Albert Ludwigs University of Freiburg, Fahnenbergplatz, 79085 Freiburg im Breisgau, Germany}
 \affiliation[l]{University College London, Gower St, Bloomsbury, London WC1E 6BT, UK}
+
+
+\abstract{This documents the proceedings from a workshop titled `Illuminating Standard candles at the LHC: V+jets' held at Imperial College London on 25th-26th April 2017. It summarises the numerous contributions to the workshop, from the experimental overview of V+jets measurements at CMS and ATLAS and their role in searching for physics beyond the Standard Model to the status of higher order perturbative calculations to these processes and their inclusion in state of the art Monte Carlos. An executive summary of the ensuing discussions including a list of outcomes and wishlist for future consideration is also presented. }
+
 \begin{document}
 \maketitle
 \flushbottom
 
-\section{Motivation}
-Processes in which a vector boson is produced in association with jet(s) in proton-proton collisions (V+jets) at the Large Hadron Collider are valuable probes of perturbative QCD. In addition they constrain Parton Distribution Functions and play a crucial role in the fits to PDFs. They are also dominant backgrounds in the search for physics beyond the Standard Model in models of Supersymmetry, Dark Matter and Higgs boson decays into invisible particles. In some channels such as jets plus missing transverse momentum, they can contribute up to 90\% of the total background. Increasing the sensitivity of these searches in Run 2 of the LHC relies critically on reducing the systematic uncertainties on the V+jets background processes. 
+\section{Introduction}
+Processes in which a vector boson is produced in association with jet(s) in proton-proton collisions (V+jets) at the Large Hadron Collider (LHC) provide valuable benchmarks for precision tests of the Standard Model (SM), probing perturbative QCD and constraining Parton Distribution Functions (PDFs). They also contribute as dominant backgrounds to searches for a wide range of theoretical scenarios beyond the SM, such as searches for Supersymmetry, Dark Matter, and exotic decays of the Higgs boson to invisible particles.  
 
-The LHC is now in its second phase of running (Run 2), colliding protons at the higher center of mass energy of 13 TeV and expecting to accumulate an order of magnitude more luminosity in Run 2 than has previously been studied. As the LHC enters an era of precision, this presents a tremendous opportunity to conduct measurements of V+jets processes in regions of phase space that were previously limited by statistics, such as the high transverse momentum region that is characteristic of the phase space probed by our searches. In parallel, developments in theoretical calculations means we have improved predictions and state of the art Monte Carlos becoming available, with the near term prospect of having automated NLO QCD and EWK corrections. 
-Studying V+jets processes in regions of phase space that have previously not been studied extesnively due to poor statistics and also in corners of phase space such as the collinear W measurment and VBF production and also using V+jets as a tool to understand the splitting scales in the kT clustering of jets, allowing us to bettwe measure the transition between the hard and soft hadronic activity which are not directly probed by jet-based measurements. 
+%probes of perturbative QCD. In addition they constrain Parton Distribution Functions and play a crucial role in the fits to PDFs. They are also dominant backgrounds in the search for physics beyond the Standard Model in models of Supersymmetry, Dark Matter and Higgs boson decays into invisible particles. In some channels such as jets plus missing transverse momentum, they can contribute up to 90\% of the total background. Increasing the sensitivity of these searches in Run 2 of the LHC relies critically on reducing the systematic uncertainties on the V+jets background processes. 
+
+The LHC is now in its second phase of operation (Run 2), colliding protons at the higher center of mass energy of 13 TeV and expecting to accumulate 100 fb$^{-1}$ of data by the end of Run 2 in 2018, 5 times higher than previously studied in Run 1. As the LHC collects an unprecedented dataset and enters an era of precision, it presents a tremendous opportunity to perform ever more precise measurements of V+jets processes and do so in regions of phase space that were previously limited by statistics, such as the high transverse momentum region that is also characteristic of the phase space probed by our searches. In parallel, developments in theoretical calculations have led to improved predictions and state of the art Monte Carlos becoming available, with the near term prospect of having automated next-to-leading-order (NLO) QCD and EWK corrections. 
+The motivation to study V+jets processes is hence two fold; (1) as a precision test of the SM in a new era of LHC, thus validating fundamental ingredients of state of the art Monte Carlo generators, and (2) increasing the sensitivity of searches for new physics that rely critically on reducing the systematic uncertainties on the V+jets background processes. 
+
+This paper is organised as follows. In Section 2 we provide an experimental overview of the V+jets measurements from ATLAS and CMS, highlighting a small subset of these measurements. The progress in theoretical developments is discussed in Section 3, including the calculations of higher order perturbative QCD and EWK corrections, the status of various Monte Carlo generators and the constraints from V+jets processes on fits to PDFs. In Section 4 we select a few analyses to highlight the impact of V+jets processes on searches for new physics. We conclude in Section 5 by listing the key outcomes/wishlist resulting from the discussions at the workshop.
+
+%Studying V+jets processes in regions of phase space that have previously not been studied extesnively due to poor statistics and also in corners of phase space such as the collinear W measurment and VBF production and also using V+jets as a tool to understand the splitting scales in the kT clustering of jets, allowing us to bettwe measure the transition between the hard and soft hadronic activity which are not directly probed by jet-based measurements. 
 
 
-- Motivation
-- Experimental overview of V+jet measurements
-- Theoretical developments (developments in higher order calculations, Monte Carlo generators)
-- Backgrounds to BSM searches
-- Outcome/Wishlist
+%- Motivation
+%- Experimental overview of V+jet measurements
+%- Theoretical developments (developments in higher order calculations, Monte Carlo generators)
+%- Backgrounds to BSM searches
+%- Outcome/Wishlist
 
 \section{Experimental overview of V+jet measurements}
+Processes with a vector boson and jets are produced with large cross sections at a hadron collider and the high statistics allow for a wide range of measurements to be performed. In this section we use select measurements from ATLAS and CMS to highlight the critical role they play in testing perturbative QCD, constraining PDFs and estimating backgrounds to new physics searches. 
+
+The measurement of the production of a Z boson with jets, Z+jets, is a powerful test of perturbative QCD. The large production cross section and the fully reconstructable decay products in the Z boson decay to charged leptons gives a clean experimental signature that can be precisely measured. The process also constitutes a non-negligible background to searches for new physics and studies of the Higgs boson.
+The Z boson production cross section in association with up to seven jets was measured with the ATLAS detector using 3.16 fb$^{-1}$ of data collected at a center of mass energy of 13 TeV~\cite{Aaboud:2017hbk}. The measurement is performed separately in the electron and muon decay channels and subsequently combined taking into account the correlations between systematic uncertainties. The cross section is measured as a function of the following observables; inclusive and exclusive jet multiplicity, ratio of jet multiplicities $N_{\rm jets}+1/N_{\rm jets}$, \pt\ of the leading jet, jet rapidity, angular separation between the two leading jets and their invariant mass, and the \Ht\, where \Ht\ represents the scalar sum of the \pt\ of all selected jets and leptons in the event. 
+
+The measured fiducial cross section after unfolding for detector effects is compared to the following theoretical predictions from both multi-leg matrix element matched and merged calculations and also fixed order calculations; \SHERPA\ 2.2 with a matrix element calculation for up to 2 additional partons at NLO and up to 4 partons at LO using the Comix and OpenLoops matrix element generators merged with the \SHERPA\ parton shower, \MGNLO\ using matrix elements including up to 4 partons at LO interfaced to \PYTHIA\ 8 and using the CKKWL merging scheme, \MGNLO\ with matrix elemens for up to 2 jets at NLO and matched to \PYTHIA\ 8 using the FxFx merging scheme, \ALPGEN\ 2.14 interfaced with \PYTHIA\ 6, fixed order parton level calculation at NLO using \BLACKHAT+\SHERPA\ with up to 4 partons, and calculations of Z+ $\ge 1$jet at NNLO from N$_{jetti}$. 
+
+The measured cross section as a function of the inclusive jet multiplicity and \Ht\ for Z+$\ge 1$ jet events is shown in Figure~\ref{ATLASZpt}.
+The error bars denote the statistical uncertainty while the hatched bands represent the total uncertainty taken by adding the statistical and systematic uncertainties in quadrature. The typical uncertainty is of the order of 10\% in the 1-2 jet bin, where the largest contribution is from the jet energy scale and resolution. 
+The jet multiplicity distribution is well described by all theoretical calculations at low multiplicity but the data starts to diverge from the predictions at higher multiplicity where the parton shower takes over. 
+In general, distributions dominated by a single jet multiplicity are modelled well by fixed order NLO calculations. The LO \MGNLO\ matrix element calculation produces a harder \Ht\ spectrum compared to the data. This modeling of the \Ht\ and related observables is significantly improved by the NLO matrix element and parton shower matched generators, \SHERPA\ and \MGNLO\ with FxFx. The recent Z+$\ge 1$ jet N$_{jetti}$ NNLO prediction also describes well the \Ht\ distribution and other key observables such as the leading jet \pt\ distribution not shown here. \BLACKHAT+\SHERPA\ underpredicts the high \Ht\ tail, as can be expected from a fixed order NLO calculation missing the higher parton multiplicities added by a parton shower. This agreement is recovered by adding higher orders in pQCD, the recent Z+$\ge 1$ jet N$_{jetti}$ NNLO prediction describes well the \Ht\ distribution and other key observables such as the leading jet \pt\ distribution not shown here.
+
+%ME+PS generator MG5-aMC+Py8 CKKWL which is based on LO matrix elements, models a too-hard jet spectrum. The modeling of the jet \pt and related observables is significantly improved by the ME+PS@NLO generators SHERPA 2.2 and MG5=aMC+Py8 FxFx, which uses NLO matrix elements for up to 2 additional partons. The recent Z+$>= 1$jet N$_{jetti}$ NNLo predictions describe well key distributions such as leading jet \pt and HT. Results are essential input for further optimisattion of MC generators of Z+jets production and powerful test of perturbative QCD for processes with higher number of partons in the final state. For the HT distribution, MG5 CKKWL overpredicts the large HT. Blackhat+Sherpa undepredict the high HT tail, as expected by fixed order NLO calculation missing the parton shower. The agreement is recovered by adding higher orders in pQCD for instance in the Njetti description, which is very good. Other measurements that study V+jets processes in corners of phase space, such as the collinear W production is discussed in detail in the next section. 
+
+
+
+% The error bars correspond to the statistical uncertainty and the hatched bands to the data statistical and systematic uncertainty added in quadrature. A constant 5\% theoretical uncertainty is used for SHERPA, ALPGEN, MG5 and MGFxFx, while uncertainties from PDFs and QCD scale variations are included n the BLACKHATSHERPA predictions. 
+
+%Measurement has been compared to fixed-order calculations at NLO from BLACKHAT+SHERPA and at NNLO from Z+$>=1 jet$ N$_{jetti}$ NNLO calculation, and to predictions from the generators SHERPA 2.2, ALPGEN+PY6, MG5-aMC+Py8 CKKWL, and MG5$\_$aMC+Py8 FxFx. In general, the predictions are in good agreement with the observed cross sections within uncertainties. Distributions dominated by a signle jet multiplicity are modelled well by fixed order NLO calculations, even in the presence of a jet veto at a low scale. The ME+PS generator MG5-aMC+Py8 CKKWL which is based on LO matrix elements, models a too-hard jet spectrum. The modeling of the jet \pt and related observables is significantly improved by the ME+PS@NLO generators SHERPA 2.2 and MG5=aMC+Py8 FxFx, which uses NLO matrix elements for up to 2 additional partons. The recent Z+$>= 1$jet N$_{jetti}$ NNLo predictions describe well key distributions such as leading jet \pt and HT. Results are essential input for further optimisattion of MC generators of Z+jets production and powerful test of perturbative QCD for processes with higher number of partons in the final state. For the HT distribution, MG5 CKKWL overpredicts the large HT. Blackhat+Sherpa undepredict the high HT tail, as expected by fixed order NLO calculation missing the parton shower. The agreement is recovered by adding higher orders in pQCD for instance in the Njetti description, which is very good. 
+
+
+\begin{figure}[t!]
+\centering
+\includegraphics[width=0.495\columnwidth]{figures_results_comb_hJetNTin.png} 
+\includegraphics[width=0.495\columnwidth]{figures_results_comb_hHT1jT.png}
+\caption{Measured cross section as a function of the leading jet \pt for inclusive Z+$\ge 1,2,3,4$ events.}
+\label{ATLASZpt}
+\end{figure}   
+
+In addition to the cross section measurements of individual V+jets processes, the ratio of their cross sections are also interesting quantities, such as W/Z, \zgamma\ and $W^{+}/W^{-}$.
+A differential measurement of the ratio of cross sections of Z+jets and $\gamma$+jets was performed using the CMS detector at a center of mass energy of 8 TeV and using a dataset corresponding to an integrated luminosity of 19.7 fb$^{-1}$~\cite{Khachatryan:2015ira}. 
+In the limit of high boson transverse momentum the LO QCD effects from the mass of the Z boson on the \zgamma\ ratio is small and hence the ratio is expected to become constant at a boson \pt\ where the effects of the finite Z mass becomes negligible, around 300 GeV. At higher boson \pt, corrections from higher order perturbative QCD and EWK processes (as discussed in next section) can lead to a non-negligible dependence of the cross section on logarithmic terms that can become large, thus altering the flat behaviour of this ratio. 
+In addition, this ratio is a crucial theoretical input in the determination of one of the key backgrounds to searches for new physics in the jets plus missing transverse momentum channel, \Znunuj. This constitutes a dominant and irreducible background, and can account for up to 70\% of the events in searches for Supersymmetry, dark matter and the invisible decay of the Higgs. These searches typically employ data driven techniques to determine the number of \Znunuj\ events in the signal region by defining orthogonal control regions in data and using simulation to extrapolate from the control region to the signal region. The \zgamma\ ratio is one of the key inputs in estimating \Znunuj\ from the statistically powerful control sample of $\gamma$+jet events and the largest uncertainty is the theoretical uncertainty assigned to this ratio from missing higher order corrections, as discussed in detail in Section 4. 
+
+The CMS measurement of this ratio is performed in four regions; N$_{\mathrm jets} \ge 1, 2, 3$, and $\Ht > 300$ GeV and requires the vector bosons to have transverse momentum larger than 100 GeV. The unfolded data distributions are compared to predictions from several theoretical calculations; a QCD calculation at NLO for Z+jets and $\gamma$+jets from \BLACKHAT+\SHERPA\ for up to 3 jets, a LO multiparton matrix element calculation from \MADGRAPH\ with up to 4 additional partons and interfaced with \PYTHIA\ using the MLM matching scheme, and a simulation of Z+jets using \SHERPA.   
+The Z+jet events from \MADGRAPH+\PYTHIA\ generation and \SHERPA\ are rescaled using a global NNLO K-factor calculated from \FEWZ\ 3.1.
+
+
+%We present a measurement of the cross section and ratios of the cross sections of Z plus jets and photon plus jets events in proton-proton collisions, as a function of the vector boson transverse momentum. The data were collected with the CMS detector at s√=8 TeV, corresponding to an integrated luminosity of 19.7 fb−1. The measurement is performed for vector bosons that have a transverse momentum larger than pT>100 GeV, and for different jet multiplicities. Comparisons between the data and predictions from several QCD calculations are also presented for the vector boson transverse momenta for the photon and for the Z separately, in different jet multiplicities. We also examine ratios between the transverse momentum for Z plus jets and hadronic quantities. 
+
+%The Z/gamma ratio in the limit of high pt(V) and at LO in QCD effects from mass of Z is small, so the cross section of the ratio is expected to become constant, it plateaus at around 300 GeV. At higher \pt, corrections from higher order QCD and EWK processes (as discussed in next section) can lead to a dependence of the cross section on logarithmic terms that can become large. A precise measurement will constrain the higher order effects of logarithmic corrections. The detector correction data distributions are compared with predictions from; Sherpa, LO Madgraph with up to 4 partons, corrected to NNLO cross section from FEWZ for the Drell-Yan process, and NLO calculation from Blackhat for upto 3 jets, this is corrected for non-pertubative effects using MG+Pythia. 
+The differential cross section for Z+jets production as a function of \ptZ\ and $\gamma$+jets production as a function of $\pt_{\gamma}$ is shown in Figure~\ref{fig:ptZgamma-CMS} together with the ratio of the various theoretical predictions to the data.
+For Z+jets, \MADGRAPH+\PYTHIA\ describes the data well up to approx 150 geV in \ptZ, and then predicts a harder spectrum than the data, overpredicting the data by up to 40-50\% above 600 GeV. \SHERPA\ undershoots the data below \ptZ\ of 50 GeV and then overpredicts by up to 30\% at high \pt. \BLACKHAT\ underpredicts the data by almost a consistent 10\% for \ptZ\ above 100 GeV. 
+For $\pt_{gamma}$, \BLACKHAT\ roughly reproduces the shape of the data distribution, but underestimates the rate by approximately 10–15\%. \MADGRAPH\ undershoots the data by up to 30\% at low \pt but models well the region above 500 GeV.
+
+
+%Plots from the CMS Z/gamma analysis~\cite{Khachatryan:2015ira} shown in Figures .
+%The ratio of the ptZ/HT distribution, most events have ptZ/HT less than 1. Eventts in tail from jets outside of the acceptance in the forward region or additional unclustered hadronic radiation. Madgraph describes best the rate and shape of the distribution. Blackhat is okay in the bulk but does not describe the tails well. The sharp drop in Blackhat around 1 is because you need parton showering for the soft jets or jets in the forward region to get ptZ/HT $ > 1$. 
+
+The differential ratio of the Z and $\gamma$ cross sections as a function of the boson \pt\ is shown in Figure~\ref{fig:ptZgamma-CMS} for the inclusive selection and $\Ht > 300$ GeV. Systematics from jet energy scale, resolution, luminosity are considered as correlated between Z and $\gamma$ and cancel in the ratio. The prediction from \MADGRAPH\ is consistently 20\% higher than data. \BLACKHAT\ also overestimates the data at high \pt by around 20\%. More discussion on this data-MC discrepancy follows in the next section and the inclusion of higher order QCD and EWK corrections. 
+
+\begin{figure}[t!]
+\centering
+\includegraphics[width=0.9\columnwidth]{ptZ-ptgamma-CMS.pdf} 
+\caption{Differential cross section of Z+jets production as a function of $\pt_{Z}$ and $\gamma$+jets production as a function of $\pt_{\gamma}$ for the detector corrected CMS data compared to several theoretical predictions.}
+\label{fig:ptZgamma-CMS}
+\end{figure}   
+
+\begin{figure}[t!]
+\centering
+\includegraphics[width=0.9\columnwidth]{ZgammaratioCMS.pdf} 
+\caption{Differential cross section of the ratio of Z+jets and $\gamma$+jets cross sections as a function of the boson \pt\ as measured by CMS and its comparison to theoretical predictions from \BLACKHAT\ and \MADGRAPH.}
+\label{fig:ptNNLO}
+\end{figure}   
+
+%Other measurements that study V+jets processes in corners of phase space, such as the collinear W production is discussed in detail in the next section. 
 
 \section{Summary of theoretical developments}
+This section discussed the progress in theoretical developments relevant to V+jets processes, including the calculation of higher orders in perturbation theory and the current status and upcoming developments in state of the art Monte Carlo generators. 
 \subsection{Higher order QCD and EWK corrections}
-Developments in calculation of higher order corrections and evaluation of theoretical uncertainties
+Theoretical uncertainties on V+jets processes principally arise from three main sources; (1) missing higher order corrections, (2) uncertainties in input parameters such as parton distributions, masses and couplings, and (3) uncertainties in the parton/hadron transition including the fragmentation which is modeled by the parton shower, the hadronisation and the underlying event. 
+The uncertainties from missing higher order corrections can be improved by the inclusion of higher orders and the resummation of large logarithms, those on the input parameters are be improved by a better description of the benchmark processes and on the parton-hadron transition by improving the matching/merging at higher orders and a better estimation of non-perturbative effects. 
+While NLO QCD is the current state of the art, there have been rapid developments in the calculation of NNLO QCD with many results becoming available. The inclusion of higher order corrections from NLO EW effects have also become important as they are roughly similar in size to the NNLO QCD and become significantly large at high energies when probing higher transverse momenta and also near resonances.
+ NNLO QCD calculations are emerging as the standard for high statistics benchmark processes like V+jets and are now available for all such processes. The calculations are available at the parton level and can compute the fiducial cross-sections but the codes are complicated to use and require significant CPU resources. However, they demonstrate all the features expected of such a calculation; a reduced dependence on the renormalisation scale and hence a reduction in the scale uncertainty, stabilisation of the perturbative series, more partons in the final state so perturbation theory can begin to reconstruct some of the shower, and will eventually lead to improved PDFs, hence further reducing the theory uncertainty.
+A comparison between the \ptZ\ distribution from ATLAS data and the NNLO calculation normalised to the NNLO Drell-Yan cross-section in Figure~\ref{fig:ptNNLO} shows that it significantly improves the agreement with data resulting in a substantially reduced scale uncertainty. The photon p$_T$ has also recently been calculated to NNLO and a comparison with the p$_{T}$ spectrum from ATLAS is shown in Figure~\ref{fig:ptNNLO}. While the shape of the distribution does not show a significant improvement with data compared to the NLO description, the theoretical uncertainty is significantly reduced. The NNLO/NLO k-factor is around 10\% and reasonably flat, with a slight increase at higher \pt, and both predictions are consistently below the data. The uncertainty from varying the scale is 2-3\% for the NNLO prediction compared to 8-10\% for the NLO. The effects of the electroweak corrections are included by rescaling the complete NNLO result by the change in the LO prediction when including one-loop electroweak effects. While the overall agreement between data and prediction gets worse when including the electroweak corrections, the normalised distribution shows that the shape is much better described with the corrections. The total uncertainty on the photon \pt\ distribution is approx 4\% at low \pt\ and 10\% at a \pt\ of 1 TeV, dominated by the PDF uncertainty.
 
-The sources of theoretical uncertainties on these processes are principally from three main sources; (1) missing higher order corrections, (2) uncertainties in input parameters such as parton distributions, masses and couplings, and (3) uncertainties in the parton/hadron transition including the fragmentation which is modeled by the parton shower, the hadronisation and the underlying event. 
-The theoretical uncertainties from missing higher order corrections can be improved by the inclusion of higher orders and the resummation of large logarithms, those on the input parameters are be improved by a better description of the benchmark processes(?) and on the parton-hadron transition by improving the matching/merging at higher orders and the estimation of non-perturbative effects. While NLO QCD is the current state of the art, there have been rapid development in the calculation of NNLO QCD with many results becoming available. The higher order corrections from NLO EW corrections are roughly similar in size to the NNLO QCD and become particularly important at high energies and when probing higher transverse momenta and near resonances. 
-- NNLO QCD calculations are available for all V+jet processes. All the calculations are at the parton level and can compute fiducial cross-sections. However, the codes are complicated to use and typically require significant CPU resources. The NNLO calculations are emerging as the standard for high statistic benchmark processes like V+jets and show the anticipated features expected of this calculation, a reduced dependence on the renormalisation scale and hence a reduction in the scale uncertainty, stabilisation of the perturbative series, more partons in the final state so perturbation theory can start to reconstruct the shower, and will lead to improved PDFs, hence further reducing the theory uncertainty. 
-Higher order electroweak corrections have become important at the large p$_{T}$, H${_T}$. 
-The NNLO calculation normalised to the NNLO Drell-Yan cross-section significantly improves the agreement with data for the \ptZ distribution shown in Figure~\ref{fig:ptNNLO} with a sbstantially reduced scale uncertainty. The photon p$_T$ has also recently been calculated to NNLO, the comparison with the p$_{T}$ spectrum from ATLAS is shown in Figure~\ref{fig:ptNNLO}. While the shape of the distribution does not show a significant improvement with data compared to the NLOdescription, the theoretical uncertainty is significantly reduced. Combining the NNLO calculation with NLO EWK prediction describes the data much better, in particular in the high pT region where the higher order EWK corrections become dominant. 
-NNLO calculations require regularization of infrared singularities that are present in phase spaces with different numbers of final state partons, different approaches are used to do this. 
-EWK corrections generally arising from loop diagrams in which a virtual W or Z is exchanged , resulting in leading logarithms of the form log$^2(M_V/p_T)$. For gamma+jets the correction from NLO to NNLO is around 10\%. The NNLO/NLO k-factor is reasonably flat, with a slight increase at higher pT. Scale variation of 2-3\% for the NNLO prediction compared to 8-10\% for the NLO. Both predictions consistently below experimental data. The effects of electroweak corrections are inclued by rescaling the complete NNLO result by the change observed in the LO prediction when including one-loop electroweak effects. The overall agreement between data and prediction gets worse when including the electroweak corrections, but the normalised distribution shows that the shape is much better described with the inclusion of EWK corrections. At NNLO the scale variation and PDF uncertainty are roughly equal and give a few percent uncertainty. The PDF uncertainty is the largest uncertainty and gives 5\% at high photon transverse momentum, the total uncertainty then ranges from 4\% at low pT to 9\% at high pT of 1 TeV. 
+%EWK corrections generally arising from loop diagrams in which a virtual W or Z is exchanged , resulting in leading logarithms of the form log$^2(M_V/p_T)$. For gamma+jets the correction from NLO to NNLO is around 10\%. The NNLO/NLO k-factor is reasonably flat, with a slight increase at higher pT. Scale variation of 2-3\% for the NNLO prediction compared to 8-10\% for the NLO. Both predictions consistently below experimental data. The effects of electroweak corrections are inclued by rescaling the complete NNLO result by the change observed in the LO prediction when including one-loop electroweak effects. The overall agreement between data and prediction gets worse when including the electroweak corrections, but the normalised distribution shows that the shape is much better described with the inclusion of EWK corrections. At NNLO the scale variation and PDF uncertainty are roughly equal and give a few percent uncertainty. The PDF uncertainty is the largest uncertainty and gives 5\% at high photon transverse momentum, the total uncertainty then ranges from 4\% at low pT to 9\% at high pT of 1 TeV. 
+
+%- NNLO QCD calculations are available for all V+jet processes. All the calculations are at the parton level and can compute fiducial cross-sections. However, the codes are complicated to use and typically require significant CPU resources. The NNLO calculations are emerging as the standard for high statistic benchmark processes like V+jets and show the anticipated features expected of this calculation, a reduced dependence on the renormalisation scale and hence a reduction in the scale uncertainty, stabilisation of the perturbative series, more partons in the final state so perturbation theory can start to reconstruct the shower, and will lead to improved PDFs, hence further reducing the theory uncertainty. 
+%Higher order electroweak corrections have become important at the large p$_{T}$, H${_T}$. 
+%The NNLO calculation normalised to the NNLO Drell-Yan cross-section significantly improves the agreement with data for the \ptZ distribution shown in Figure~\ref{fig:ptNNLO} with a sbstantially reduced scale uncertainty. The photon p$_T$ has also recently been calculated to NNLO, the comparison with the p$_{T}$ spectrum from ATLAS is shown in Figure~\ref{fig:ptNNLO}. While the shape of the distribution does not show a significant improvement with data compared to the NLOdescription, the theoretical uncertainty is significantly reduced. Combining the NNLO calculation with NLO EWK prediction describes the data much better, in particular in the high pT region where the higher order EWK corrections become dominant. 
+%NNLO calculations require regularization of infrared singularities that are present in phase spaces with different numbers of final state partons, different approaches are used to do this. 
+
 \begin{figure}[t!]
 \centering
 \includegraphics[width=0.495\columnwidth]{ptZNNLO.pdf} 
-\caption{Comparison of the NNLO \ptZ distribution normalised by the NNLO Drell-Yan cross section with data from ATLAS.}
+\caption{Comparison of the NNLO \ptZ\ distribution normalised by the NNLO Drell-Yan cross section with data from ATLAS.}
 \label{fig:ptNNLO}
 \end{figure}   
 
@@ -96,14 +189,14 @@ EWK corrections generally arising from loop diagrams in which a virtual W or Z i
 \centering
 \includegraphics[width=0.495\columnwidth]{pt_gam.pdf} 
 \includegraphics[width=0.495\columnwidth]{pt_gam_EW_norm.pdf} 
-\caption{Comparison of the NNLO \ptZ distribution normalised by the NNLO Drell-Yan cross section with data from ATLAS.}
+\caption{Comparison of the NNLO and NLO $\pt_{\gamma}$ distribution with data from ATLAS and the ratio to the NNLO calculation (left). Shaded bands represent the uncertainty on the theoretical calculations. Also shown is the ratio to the NNLO calculation when including the effects of NLO EWK corrections (right) for the unnormalised (top) and normalised (bottom) distributions. }
 \label{fig:ptNNLO}
 \end{figure}   
 
 \begin{figure}[t!]
 \centering
 \includegraphics[width=0.495\columnwidth]{ptgam_uncert.pdf} 
-\caption{Comparison of the NNLO \ptZ distribution normalised by the NNLO Drell-Yan cross section with data from ATLAS.}
+\caption{The sources of systematic uncertainty on the $\pt_{\gamma}$ distribution from variations in the scale, PDF and the photon isolation (top) and the total uncertainty together with the ratio of the CMS data to the NNLO distribution including EWK corrections (bottom).}
 \label{fig:ptNNLO}
 \end{figure}   
 
@@ -111,37 +204,39 @@ EWK corrections generally arising from loop diagrams in which a virtual W or Z i
 \centering
 \includegraphics[width=0.495\columnwidth]{Zga_ratio_8TeV.pdf} 
 \includegraphics[width=0.495\columnwidth]{Zga_ratioEW_8TeV.pdf} 
-\caption{Comparison of the NNLO \ptZ distribution normalised by the NNLO Drell-Yan cross section with data from ATLAS.}
+\caption{Comparison of the NNLO \ptZ\ distribution normalised by the NNLO Drell-Yan cross section with data from ATLAS.}
 \label{fig:ptNNLO}
 \end{figure}   
 
 \begin{figure}[t!]
 \centering
 \includegraphics[width=0.495\columnwidth]{ptZga_uncert.pdf} 
-\caption{Comparison of the NNLO \ptZ distribution normalised by the NNLO Drell-Yan cross section with data from ATLAS.}
+\caption{Comparison of the NNLO \ptZ\ distribution normalised by the NNLO Drell-Yan cross section with data from ATLAS.}
 \label{fig:ptNNLO}
 \end{figure}   
 
-The inclusive W+1jet production is important for calibrating the missing transverse momentum attributed to the neutrino. It has large NLO corrections of the order of 40\% owing to new partonic configurations from the soft/collinear W radiation from dijet events. The NNLO corrections are relatively small leading to a significant reduction in the scale uncertainty. Requiring only one jet eliminates the new configuratiosn and leads to more moderate NLO effects at the level of 20\%. The QCD perturbative expansion displays good convergence after inclusion of the NNLO corrections.  
+The inclusive W+1jet production is important for calibrating the missing transverse momentum attributed to the neutrino. It has large NLO corrections of the order of 40\% owing to new partonic configurations from the soft/collinear W radiation from dijet events. The NNLO corrections are relatively small leading to a significant reduction in the scale uncertainty and display good convergence of the QCD pertubative expansion. %Requiring only one jet eliminates these new configurations and leads to more moderate NLO effects at the level of 20\%. %The QCD perturbative expansion displays good convergence after inclusion of the NNLO corrections.  
 
-The fiducial cross sections are shown at 13 TeV for the inclusive and exclusive 1-jet bin in Table~\ref{tab:Wjet}. The NLO correction increases the LO result by 42\% for the inclusive case and by 16\% for the exclusive bin, while including the NNLO corrections increases the inclusive cross section by 3\% while reducing the exclusive 1-jet cross section by 4\%. The cause of these different corrections for the inclusive and exclusive case is due to jet veto logarithms which can have a significant impact on fixed-order cross sections in exclusive jet bins. The pTW distribution is shown in Figure. The NLO corrections above ptW ~ 200 GeV are at a maximum of 60\% and then slowly decrease to 40\% at a ptW of 1 TeV with an uncertainty from scale variation of 20\%, while the NNLO corrections are ~10\% at ptW of 200 GeV and remain roughly constant out to high pT, with an uncertainty from scale variation of a few percent. The corrections have a very different impact on the exclusive jet distribution owing to the jet veto logarithms with increase with the transverse momentum. The NLO correction is 0.9 at ptW of 200 GeV and decreases to 0.3 for ptW of 800 GeV. The NNLO correction is roughly constant from ptW of ~ 50 GeV at 0.9. For the HT distribution, there is a large K-factor for the NLO, the NNLO corrections are much smaller than the NLO corrections, the NLO corrections grow to 75\% when the HT is $>$ 1 Tev, with a residual scale dependence of $\pm 15\%$. Work is needed to compare this with a merged W+jets sample. At NLO there are configurations containing 2 hard jets and a soft/collinear W boson that are logarithmically enhanced. These cannot occur at LO since the W boson must balance in the transverse plane against the single jet that appears. the NLO corrections are large bu the QCD pertubative expansion stabilises when the NNLO corrections are included. 
+The fiducial cross sections at 13 TeV for the inclusive and exclusive 1-jet bin are compared in Table~\ref{tab:Wjet}. The NLO correction increases the LO result by 42\% for the inclusive case and by 16\% for the exclusive bin, while including the NNLO corrections increases the inclusive cross section by 3\% while reducing the exclusive 1-jet cross section by 4\%. These different corrections for the inclusive and exclusive case are due to jet veto logarithms which can have a large impact on fixed-order cross sections in exclusive jet bins. The \ptW\ distribution is shown in Figure~\ref{fig:Wpt}. The NLO corrections above \ptW\ ~ 200 GeV are at a maximum of 60\% and then slowly decrease to 40\% at a \ptW\ of 1 TeV with an uncertainty from scale variation of 20\%, while the NNLO corrections are ~10\% at \ptW\ of 200 GeV and remain roughly constant out to high \pt, with an uncertainty from scale variation of a few percent. The corrections have a very different impact on the exclusive jet distribution owing to the jet veto logarithms which increase with the transverse momentum. The NLO correction is 10\% at \ptW\ of 200 GeV and increases to 70\% for \ptW\ of 800 GeV. The NNLO correction is roughly constant from \ptW\ of ~ 50 GeV at 10\%. For the \Ht distribution, there is a large k-factor for the NLO and significantly reduced but still sizeable NNLO corrections. The NLO corrections grow to 75\% when the HT is $>$ 1 Tev, with a residual scale dependence of $\pm 15\%$. %Work is needed to compare this with a merged W+jets sample. 
+At NLO there are configurations containing 2 hard jets and a soft/collinear W boson that are logarithmically enhanced. These cannot occur at LO since the W boson must balance in the transverse plane against the single jet, thus leading to NLO corrections that are large but the QCD perturbative expansion shows convergence and stabilises when the NNLO corrections are included. 
 
 \begin{table}[h!]
 \centering
 \begin{tabular}{|c|ccccc|} \hline
   & $\sigma_{\mathrm {LO}}$ (pb) & $\sigma_{\mathrm {LO}}$ (pb) & $\sigma_{\mathrm {LO}}$ (pb) & $\mathrm {K_{NLO}}$ & $\mathrm {K_{NNLO}}$ \\ \hline 
 inclusive & $773.7^{+33.7}_{-36.8}$ & $1099.3^{+57.8}_{-44.6}$ & $1130.2^{+5.2}_{-8.7}$ & 1.42 & 1.03 \\
-exclusive & $773.7^{+33.7}_{-36.8}$ & $895.7^{+16.0}_{-11.6}$ & $863.2^{+10.5}_{-13.0}$ & 1.16 & 0.96 \\ \hline
-\label{tab:Wjet}
+exclusive & $773.7^{+33.7}_{-36.8}$ & $895.7^{+16.0}_{-11.6}$ & $863.2^{+10.5}_{-13.0}$ & 1.16 & 0.96 \\
+\hline
 \end{tabular}
+\label{tab:Wjet}
 \end{table}
 
 \begin{figure}[t!]
 \centering
 \includegraphics[width=0.495\columnwidth]{pTW_13TeV_incl.pdf} 
 \includegraphics[width=0.495\columnwidth]{pTW_13TeV_excl.pdf} 
-\caption{Comparison of the NNLO \ptZ distribution normalised by the NNLO Drell-Yan cross section with data from ATLAS.}
-\label{fig:ptNNLO}
+\caption{Comparison of the LO, NLO and NNLO \ptW\ distribution for inclusive and exclusive W+1 jet production and the behaviour of the NLO and NNLO k-factors (below).}
+\label{fig:Wpt}
 \end{figure}   
 
 
@@ -149,33 +244,96 @@ exclusive & $773.7^{+33.7}_{-36.8}$ & $895.7^{+16.0}_{-11.6}$ & $863.2^{+10.5}_{
 \centering
 \includegraphics[width=0.495\columnwidth]{HT_13TeV_incl.pdf} 
 \includegraphics[width=0.495\columnwidth]{HT_13TeV_excl.pdf} 
-\caption{Comparison of the NNLO \ptZ distribution normalised by the NNLO Drell-Yan cross section with data from ATLAS.}
-\label{fig:ptNNLO}
+\caption{Comparison of the LO, NLO and NNLO \Ht\ distribution for inclusive and exclusive W+1 jet production and the behaviour of the NLO and NNLO k-factors (below).}
+\label{fig:HT-Wjets}
 \end{figure}   
-Also studied is the case of the boosted W where the cut on the leading jet is required to be $> 500$ GeV. There are 2 distinct category of events that pass these selection cuts; those where the leading jet is back to back with the high pT boson and events with 2 jets with the emission of a soft or collinear W boson. The first type of eevnts occur at LO in the perturbative expansion of the W+jet process, while the second type of event first occurs at NLO. The correction in the fiducial cross section in going from the LO to NLO is large, the K-factor is 2.8 due ot this new event category that appears at NLO. The NNLO correction is smaller at 16\%and the scale variation also decreases from 20\% at NLO to less than 7\% at NNLO. The NNLO correction is contained within the NLO scale variation band, indicating convergenece of the pertubative expansion. 
-The separation between the closest jet and W boson is shown in Figure. The events where the jet and W are back to back is shown in the region where $\Delta R_{j,W} > \pi$. The distribution of events in the region below this is quite broad and populaed by events where the W boson is emitted from one of the jets (a diejt configuration with the emission of a softer W boson). The NLO extends the range in $\Delta R_{j,W} > \pi$ to lower values which is influenced by dijet production with the emission of a soft W. The NNLO effects are very similar to NLO below $\pi$. Since the lepton is emitted preferentially along the W direction, the  $\Delta R_{j,l}$ distribution is similar. 
+Also studied is the case of the boosted W where the the leading jet is required to have a \pt\ $> 500$ GeV. There are 2 distinct category of events that pass these selection cuts; those where the leading jet is back to back with the high \pt\ boson and dijet events with the emission of a soft or collinear W boson from one of the jets. The first class of events occur at LO in the perturbative expansion of the W+jet process, while the second type of event first occurs at NLO. The correction in the fiducial cross section in going from the LO to NLO is large, with a k-factor of 2.84 due to this new event category that appears at NLO. The NNLO correction is smaller at 16\% and the scale variation also decreases from 20\% at NLO to less than 7\% at NNLO. The NNLO correction is contained within the NLO scale variation band, indicating convergence of the pertubative expansion. 
+The separation between the closest jet and W boson is shown in Figure~\ref{fig:collinearW}. Events where the jet and W are back to back is shown in the region where $\Delta R_{j,W} > \pi$, while the region below this is quite broad and populated by the NLO configuration where a soft W boson is emitted from one of the jets. The NNLO effects are very similar to NLO below $\pi$. Since the lepton is emitted preferentially along the direction of the W, the $\Delta R_{j,l}$ distribution is similar. 
 
 \begin{figure}[t!]
 \centering
 \includegraphics[width=0.495\columnwidth]{delrjW.pdf} 
-\caption{Comparison of the NNLO \ptZ distribution normalised by the NNLO Drell-Yan cross section with data from ATLAS.}
-\label{fig:ptNNLO}
+\caption{The $\Delta R_{j,W}$ distribution for the case of a boosted W with a leading jet \pt\ $>$ 500 GeV for LO, NLO and NNLO. Also shown are the k-factors for the NLO and NNLO are (below).}
+\label{fig:collinearW}
 \end{figure}   
 
 
+\subsection{Status of generators}
+In this section we review the status of several Monte Carlo event generators and their forthcoming releases. 
+A new version of the \SHERPA\ Monte Carlo event generator, \SHERPA-2.2.3, was released in April 2017. In addition to bug fixes for all known issues in \SHERPA-2.2.2, it contains extended support for UFO BSM physics, a new parton shower and the functionality to do on-the-fly variations of renormalisation scale, factorisation scale, $\alpha_s$ and PDFs. 
+The multijet merging for loop induced processes has also been further tested. Further, the generator now includes approximate NLO EWK corrections in the existing NLO QCD multijet merging. This represents a first and useful step towards a complete NLO QCD+EW matching and multijet merging. 
+Figure~\ref{fig:ZGratio-sherpa} shows a comparison of the theoretical predictions from \SHERPA+\OPENLOOPS\ to CMS data for the $Z/\gamma$ ratio versus boson \pt\ for events with $n_{jets} \ge 1$. The data is compared to NLO QCD and NLO QCD+EW and demonstrates an improvement in the data-MC comparison with the inclusion of EWK corrections. 
+
+%To come in SHERPA-2.3.0 will be the parton shower reweigthing and the full NLO EWK corrections. The theoretical predictions for the Z/gamma ratio and its dependence on the boson transverse momentum in events with atleast one jet accompanying the reconstructed Z boson or photon is compared with. The electroweak corrections are different for the Z and photon processes due to the different EW charge of the Z boson compared to the photon. SHERPA+OPENLOOPS and MUNICH+OPENLOOPS incorporate the automation of NLO EWK corrections as input to high precision or TeV regime analyses. It is available in the latest version of Sherpa which incorporates the approximate NLO EW corrections inso established multijet mergin methods at NLO accuracy and represents and a first and useful step towards a complete NLO QCD+EW matching and multijet merging. The inclusion of EWK corrections improve the comparison with CMS data. 
+
+The NLO QCD+EWK prediction from \SHERPA+\OPENLOOPS\ for the angular separation between the closest jet and the muon in the W+jets inclusive and exclusive process is shown in Figure~\ref{fig:WinJet} including the comparatively large subleading Born contributions owing to the phase space opened up by the W+2jet process. The NLO corrections are negative in the peak of the distribution at $\Delta R(\mu,j) ~ \pi$ and the subleading Born contribution becomes important at large $\Delta R$.
+Also shown is the ATLAS data and its comparison with predictions from \ALPGEN+\PYTHIA\ W+jets MLM merged process, \PYTHIA\ 8 with a W+jets QCD shower and dijet with a QCD and EWK shower, and \SHERPA+\OPENLOOPS\ with NLO QCD+EWK+subLO. The ATLAS data shows excellent agreement with the \SHERPA+\OPENLOOPS\ prediction. 
+\begin{figure}[t!]
+\centering
+\includegraphics[width=0.495\columnwidth]{Zgammaratio.pdf} 
+\caption{Comparison of the $Z/\gamma$ ratio vs. boson \pt\ in data from CMS with NLO QCD and NLO QCD+EWK predictions from \SHERPA+\OPENLOOPS.}
+\label{fig:ZGratio-sherpa}
+\end{figure}   
+
+\begin{figure}[t!]
+\centering
+\includegraphics[width=0.495\columnwidth]{WinJet_dR_mu_jet_1jex2jin.pdf} 
+\includegraphics[width=0.495\columnwidth]{fig_05b.pdf} 
+\caption{Comparison of $\Delta R (\mu,j)$  NNLO \ptZ\ distribution normalised by the NNLO Drell-Yan cross section with data from ATLAS.}
+\label{fig:WinJet}
+\end{figure}   
+
+The forthcoming release of SHERPA-2.3.0 will include parton shower reweigthing and the full NLO EWK corrections.
+
+V+jets processes are key for the phenomenological validation of NLO multi-jet merging as implemented in Monte Carlo event generators like \MGNLO\, owing to their high statistics at the LHC and thir utility in probing regions of phase space that are affected by both fixed order and matrix element calculations. The FxFx NLO multi-jet merging method is the default tool in \MGNLO\ and has worked well, giving a very good overall description of the data with only 0, 1, 2 jets. It can be interfaced with both \PYTHIA\ 8 and \HERWIG++ and has shown substantial improvement with respect to inclusive processes. One of the possible foreseen improvements will be inclusion of processes with massless particles at Born, for instance $\gamma$+jets and VBF. Also incorporated is an automated interface to UNLOPS to enable an independent evaluation of NLO multi-jet merging systematics on top of scale variations and underlying event shower modelling. The automated event generation for loop-induced processes have also been added to include $gg$ effects for Z+0, 1, 2 jets.
+%MGaMCNLO. FxFx is the defauly MG5 tool for NLO multi-jet merging. It works well and possible improvements will be inclusion of processes with massless particles at Born, for instance photon+jets and VBF. There is an automated interface to UNLOPS which gives independent assessment of NLO merging systematics. The automated event generation for loop-induced processes have been incorporated to include gg effects for Z+0,1,2 jets. V + jets with FxFx
+%  V + jets primary process for phenomenological validation of NLO multi-jet merging
+%both theoretically and against data.
+%  Theoretically simple.
+%  High statistics at the LHC.
+%  Allows to probe regions affected by both fixed order and MC.
+%FxFx in good shape for both PY8 and HW++: substantial improvement with respect to inclusive.  Merging scale systematics under control despite conservative variation range.
+%  Enhanced stability against underlying shower: in most cases differences HW++ vs
+%PY8 within the uncertainty band.
+%  Very good overall description of data with only 0, 1, 2 jets.
+%  Possible to include 3-jet sample, even if technically demanding (O(1M) diagrams).
+%  All HW++ facilities carry over to HW7.
+%V + jets beyond FxFx in MG5 aMC --> UNLOPS, loop induced gg--> Z+jets. 
+%UnLOPS = Independent formalism for NLO multi-jet merging, developed within PY8. Automatic interface to PY8+UNLOPS fully embedded in the MG5 aMC code:
+%generation steps as for FxFx events, just set ickkw = 4 in run card.dat. Very useful to have two independent methods to asses NLO multi-jet merging
+%systematics on top of scale variations and of underlying-shower modelling. Unitarity (UNLOPS) vs non-unitarity (FxFx): differences in both rates and shapes beyond NLO level.
+
+\subsection{PDF constraints from V+jets}
+Inclusion of transverse momentum distribution of the Z boson into PDF fits has significant constraining power. The experimental precision on the Z \pt distribution for \pt up to $~ 200 $ GeV is $< 1\%$. Inclusion of Z \pt data constrains the intermediate-$x$ gluon and light quark distributions. 
 \section{Backgrounds to BSM searches}
+Backgrounds from V+jets processes contribute to many searches for BSM physics, in particular those involving missing transverse energy. The relatively large cross-sections for processes like \Znunuj\ and \Wlnuj\ means backgrounds from them are sizeable compared to the signal process. This section briefly highlights a few searches where the our improved understanding of these processes in certain regions of phase space will play a critical role in driving the future sensitivity of these searches. 
+
+In the `monojet' search looking for the presence of atleast 1 jet and substantial \met, the dominant backgrounds from \Znunuj\ and \Wlnuj\ are determined using a set of independent control regions in data. The control regions are defined such that they share similar kinematic characteristics with the signal region but are orthogonal to it. The control regions most commonly used are; W+jets, \Zll\ and $\gamma$+jets. Transfer factors are determined that account for the lepton acceptance and efficiency, the difference in branching fractions between the control region process and the background process and the ratio of the production cross-sections. One of the key systematic uncertainties in the analysis is from the uncertainty on these transfer factors, in particular the theoretical component associated with the ratio of production cross sections in the extreme regions of phase space where the search is conducted. As seen in the previous section, the effects from higher order QCD and EWK corrections for V+jets processes and in the ratio of cross sections for $Z/\gamma$ and $W/Z$ at high transverse momentum become substantial. Hence, understanding these processes to better accuracy is critical.
+
+The search for invisible decays of the Higgs boson also sees a large background contribution from V+jets processes. This background is particularly enhanced where the invariant mass of the dijet pair is large, with VBF production of Z+jets contributing around 30\% to the signal region and carrying large uncertainties of 20-30\%. The main source of uncertainty for the VBF production of the Higgs is from the W/Z ratio in this VBF phase space and has the largest impact on the result, while for a V(jj) tagged analysis the dominant source of systematic uncertainty is from the theoretical uncertainty on the $\gamma/Z$ ratio, followed by the W/Z ratio, as shown in Figure~\ref{systHinv}. It is therefore highly desirable to have Monte Carlo generators with NLO QCD and EWK corrections also for VBF topologies and the phase space probed by multi-jet searches typical of Supersymmetry searches. 
+\begin{figure}[t!]
+\centering
+\includegraphics[width=0.495\columnwidth]{systable.pdf} 
+\includegraphics[width=0.495\columnwidth]{systable2.pdf} 
+\caption{The key sources of systematic uncertainties and their impact on the fitted value of B(H$\rightarrow$ inv.) in the (a) V(jj)- tagged analysis and (b) VBF-tagged analysis.}
+\label{fig:systHinv}
+\end{figure}   
+
 
 \section{Outcome/wishlist}
+This section gives a concise list of the key outcomes of the workshop and the `wishlist' discussed by the theorists and experimentalists. 
 \begin{itemize}
-\item V+jets crucial background in a multitude of BSM searches
-Modelling of inclusive V+jets seems to be under very good control. I.e. very good MC/data agreement for various employed MCs.
-\item Inclusion of EW corrections crucial in the tails of high-energy distributions: assign uncertainty to EW corrections, add Sudakov logs. Fixed EWK corrections are available in Sherpa+OpenLoops (2.2)[specify version number in results]. MC@NLO are working on it. Approximate NLO EWK corrections available in 2.2. Exact, fixed order will be available in 2.3. Recommendation being finalised for inclusive jet+MET for applying EWK corrections and uncertainties.  
-\item NNLO QCD reduce scale uncertainties to the O(5\%) level for individual distributions, quantify correlations between distributions. Validate different calculations using different methods. V+jets - antenna subtraction and Njettiness slicing, validate against each other. 
-\item MC/Data agreement deteriorates in more exclusive phase-space regions. In particular high-mjj (VBF). Understand the reasons for differences between generators.  
-\item More exclusive distributions e.g HT in bins of Njet, 2D distributions to show correlations between variables e.g HT vs pTZ[specific?], in pTV-dphij1j2 - dijet radiates a Z - one extreme of this distribution, dijet back to back with Z other extreme, middle of this region interesting. 
-\item Jet-observables \& leptonic observables if possible 
-\item Where possible, unnormalized distributions, or provision of k-factor used to normalize the overall cross-section. NNLO k-factors obtained for inclusive sample (Njet >=0) not always applicable to less inclusive distributions (Njet >=1,2). Normalized in public note, unnormalized in HEPDATA?
-\item Higher-order EW corrections for QCD \& EW V+jets in VBF topologies - Sherpa includes QCD corrections for VBF topologies, also EWK corrections to QCD production but not QCD corrections to EWK production. At higher order interferences between QCD and EWK production, calculate V+jets at all sub-leading one loop orders.  
+\item V+jets processes play a very important role as fundamental tests of the Standard Model, from probing perturbative QCD to constraining PDFs and are also a crucial background in a multitude of BSM searches.
+\item Theoretical modeling of the inclusive V+jets process is under very good control, evidenced by the very good agreement between data and simulation for a range of different Monte Carlos.
+\item The inclusion of NLO EW corrections is crucial in the tails of high-energy distributions. Approximate fixed order NLO EWK corrections are available in \SHERPA+\OPENLOOPS\ 2.2. The exact fixed order EWK corrections will be available in \SHERPA\ 2.3. Including these corrections in \MGNLO\ is being worked on.
+\item Recommendations for applying corrections to account for NLO EWK effects and evaluate uncertainties associated with them for inclusive searches looking for jets and \met\ have recently been finalised and are available in[].
+\item NNLO QCD reduces scale uncertainties to the O(5\%) level for individual distributions. It is desirable to quantify the correlations between kinematic distributions and validate the different calculations using different methods, for instance antenna subtraction vs Njettiness slicing.
+\item The version number used for Monte Carlo generators should be specified.
+\item The agreement between data and simulation deteriorates in more exclusive phase-space regions, for instance the high invariant mass of dijet pair in VBF production. It is desirable to understand the reasons for these differences between the various Monte Carlos.
+\item Important to publish more exclusive distributions of kinematic quantities e.g \Ht distribution in bins of jet multiplicity, 2D distributions to show correlations between variables e.g \Ht vs \ptZ, in \pt(V) vs $\Delta\phi(j1,j2)$. For the case of collinear boson emission and the observable of interest, the angular separation between the boson and the closest jet, the region of this distribution in between the two extremes (dijet collinear with boson and back to back dijets) is interesting. 
+\item Publish more jet-observables \& leptonic observables.
+\item Where possible, make available the unnormalized distributions, or the provision of k-factor used to normalize the overall cross-section. NNLO k-factors obtained for inclusive sample (Njet $>=$0) are not always applicable to less inclusive distributions (Njet $>=$ 1,2). One possibility is to have normalized distributions in the public note and unnormalized ones in HEPDATA.
+\item Need higher-order EW corrections for QCD \& EW V+jets in VBF topologies. \SHERPA includes QCD corrections for VBF topologies, also EWK corrections to QCD production but not QCD corrections to EWK production. At higher order there are also interferences between QCD and EWK production, need to calculate V+jets at all sub-leading one loop orders[?].  
 \end{itemize}
 
 \bibliography{ref}

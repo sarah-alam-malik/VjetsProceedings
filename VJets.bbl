@@ -1,9 +1,14 @@
 \providecommand{\href}[2]{#2}\begingroup\raggedright\begin{thebibliography}{10}
 
-\bibitem{Aprile:2011dd}
-{\bf XENON100} Collaboration, E.~Aprile et~al., {\it {The XENON100 Dark Matter               
-  Experiment}},  {\em Astropart.Phys.} {\bf 35} (2012) 573--590,
-  [\href{http://arxiv.org/abs/1107.2155}{{\tt arXiv:1107.2155}}].
+\bibitem{Khachatryan:2015ira}
+  V.~Khachatryan {\it et al.} [CMS Collaboration],
+  %``Comparison of the Z/$\gamma$$^{∗}$ + jets to $\gamma$ + jets cross sections in pp collisions at $ \sqrt{s}=8 $ TeV,''
+  JHEP {\bf 1510} (2015) 128
+   Erratum: [JHEP {\bf 1604} (2016) 010]
+  doi:10.1007/JHEP04(2016)010, 10.1007/JHEP10(2015)128
+  [arXiv:1505.06520 [hep-ex]].
+  %%CITATION = doi:10.1007/JHEP04(2016)010, 10.1007/JHEP10(2015)128;%%
+  %23 citations counted in INSPIRE as of 31 May 2017
 
 \end{thebibliography}\endgroup
 
