@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  12 JUL 2017 15:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  20 JUL 2017 11:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -403,12 +403,8 @@ Package JHEP Warning: E-mails are missing.
 \tf@toc=\write4
 \openout4 = `VJets.toc'.
 
- [1]
-
-Package natbib Warning: Citation `Aaboud:2017hbk' on page 2 undefined on input 
-line 101.
-
-[2] <figures_results_comb_hJetNTin.png, id=72, 597.23125pt x 845.1575pt>
+ [1] [2]
+<figures_results_comb_hJetNTin.png, id=98, 597.23125pt x 845.1575pt>
 File: figures_results_comb_hJetNTin.png Graphic file (type png)
 
 <use figures_results_comb_hJetNTin.png>
@@ -416,7 +412,7 @@ Package pdftex.def Info: figures_results_comb_hJetNTin.png used on input line 1
 21.
 (pdftex.def)             Requested size: 212.95006pt x 301.35486pt.
 
-<figures_results_comb_hHT1jT.png, id=74, 597.23125pt x 845.1575pt>
+<figures_results_comb_hHT1jT.png, id=100, 597.23125pt x 845.1575pt>
 File: figures_results_comb_hHT1jT.png Graphic file (type png)
 
 <use figures_results_comb_hHT1jT.png>
@@ -428,14 +424,14 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
 
-<ptZ-ptgamma-CMS.pdf, id=86, 475.89525pt x 480.10847pt>
+<ptZ-ptgamma-CMS.pdf, id=117, 475.89525pt x 480.10847pt>
 File: ptZ-ptgamma-CMS.pdf Graphic file (type pdf)
 
 <use ptZ-ptgamma-CMS.pdf>
 Package pdftex.def Info: ptZ-ptgamma-CMS.pdf used on input line 151.
 (pdftex.def)             Requested size: 387.18312pt x 390.62196pt.
 
-<ZgammaratioCMS.pdf, id=87, 432.26227pt x 359.80403pt>
+<ZgammaratioCMS.pdf, id=118, 432.26227pt x 359.80403pt>
 File: ZgammaratioCMS.pdf Graphic file (type pdf)
 
 <use ZgammaratioCMS.pdf>
@@ -448,43 +444,43 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [5 <./ptZ-ptgamma-CMS.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [6 <./ZgammaratioCMS.pdf>] <ptZNNLO.pdf, id=339, 218.23933pt x 217.61761pt>
+ [6 <./ZgammaratioCMS.pdf>] <ptZNNLO.pdf, id=374, 218.23933pt x 217.61761pt>
 File: ptZNNLO.pdf Graphic file (type pdf)
 
 <use ptZNNLO.pdf>
 Package pdftex.def Info: ptZNNLO.pdf used on input line 183.
 (pdftex.def)             Requested size: 212.95006pt x 212.3473pt.
- <pt_gam.pdf, id=340, 361.35pt x 439.6425pt>
+ <pt_gam.pdf, id=375, 361.35pt x 439.6425pt>
 File: pt_gam.pdf Graphic file (type pdf)
  <use pt_gam.pdf>
 Package pdftex.def Info: pt_gam.pdf used on input line 190.
 (pdftex.def)             Requested size: 212.95006pt x 259.09164pt.
 
-<pt_gam_EW_norm.pdf, id=341, 397.485pt x 381.425pt>
+<pt_gam_EW_norm.pdf, id=376, 397.485pt x 381.425pt>
 File: pt_gam_EW_norm.pdf Graphic file (type pdf)
  <use pt_gam_EW_norm.pdf>
 Package pdftex.def Info: pt_gam_EW_norm.pdf used on input line 191.
 (pdftex.def)             Requested size: 212.95006pt x 204.34845pt.
 
-<ptgam_uncert.pdf, id=342, 433.62pt x 480.79625pt>
+<ptgam_uncert.pdf, id=377, 433.62pt x 480.79625pt>
 File: ptgam_uncert.pdf Graphic file (type pdf)
  <use ptgam_uncert.pdf>
 Package pdftex.def Info: ptgam_uncert.pdf used on input line 198.
 (pdftex.def)             Requested size: 212.95006pt x 236.12042pt.
 
-<Zga_ratio_8TeV.pdf, id=343, 361.35pt x 415.5525pt>
+<Zga_ratio_8TeV.pdf, id=378, 361.35pt x 415.5525pt>
 File: Zga_ratio_8TeV.pdf Graphic file (type pdf)
  <use Zga_ratio_8TeV.pdf>
 Package pdftex.def Info: Zga_ratio_8TeV.pdf used on input line 205.
 (pdftex.def)             Requested size: 212.95006pt x 244.89485pt.
 
-<Zga_ratioEW_8TeV.pdf, id=344, 361.35pt x 415.5525pt>
+<Zga_ratioEW_8TeV.pdf, id=379, 361.35pt x 415.5525pt>
 File: Zga_ratioEW_8TeV.pdf Graphic file (type pdf)
 
 <use Zga_ratioEW_8TeV.pdf>
 Package pdftex.def Info: Zga_ratioEW_8TeV.pdf used on input line 206.
 (pdftex.def)             Requested size: 212.95006pt x 244.89485pt.
- <ptZga_uncert.pdf, id=345, 433.62pt x 480.79625pt>
+ <ptZga_uncert.pdf, id=380, 433.62pt x 480.79625pt>
 File: ptZga_uncert.pdf Graphic file (type pdf)
 
 <use ptZga_uncert.pdf>
@@ -494,7 +490,7 @@ Package pdftex.def Info: ptZga_uncert.pdf used on input line 213.
 
 pdfTeX warning: pdflatex (file ./pTW_13TeV_incl.pdf): PDF inclusion: found PDF 
 version <1.6>, but at most version <1.5> allowed
-<pTW_13TeV_incl.pdf, id=515, 578.16pt x 433.62pt>
+<pTW_13TeV_incl.pdf, id=550, 578.16pt x 433.62pt>
 File: pTW_13TeV_incl.pdf Graphic file (type pdf)
  <use pTW_13TeV_incl.pdf>
 Package pdftex.def Info: pTW_13TeV_incl.pdf used on input line 236.
@@ -503,7 +499,7 @@ Package pdftex.def Info: pTW_13TeV_incl.pdf used on input line 236.
 
 pdfTeX warning: pdflatex (file ./pTW_13TeV_excl.pdf): PDF inclusion: found PDF 
 version <1.6>, but at most version <1.5> allowed
-<pTW_13TeV_excl.pdf, id=516, 578.16pt x 433.62pt>
+<pTW_13TeV_excl.pdf, id=551, 578.16pt x 433.62pt>
 File: pTW_13TeV_excl.pdf Graphic file (type pdf)
  <use pTW_13TeV_excl.pdf>
 Package pdftex.def Info: pTW_13TeV_excl.pdf used on input line 237.
@@ -517,7 +513,7 @@ dfs with page group included in a single page
 
 pdfTeX warning: pdflatex (file ./HT_13TeV_incl.pdf): PDF inclusion: found PDF v
 ersion <1.6>, but at most version <1.5> allowed
-<HT_13TeV_incl.pdf, id=801, 578.16pt x 433.62pt>
+<HT_13TeV_incl.pdf, id=836, 578.16pt x 433.62pt>
 File: HT_13TeV_incl.pdf Graphic file (type pdf)
  <use HT_13TeV_incl.pdf>
 Package pdftex.def Info: HT_13TeV_incl.pdf used on input line 245.
@@ -526,7 +522,7 @@ Package pdftex.def Info: HT_13TeV_incl.pdf used on input line 245.
 
 pdfTeX warning: pdflatex (file ./HT_13TeV_excl.pdf): PDF inclusion: found PDF v
 ersion <1.6>, but at most version <1.5> allowed
-<HT_13TeV_excl.pdf, id=802, 578.16pt x 433.62pt>
+<HT_13TeV_excl.pdf, id=837, 578.16pt x 433.62pt>
 File: HT_13TeV_excl.pdf Graphic file (type pdf)
  <use HT_13TeV_excl.pdf>
 Package pdftex.def Info: HT_13TeV_excl.pdf used on input line 246.
@@ -554,7 +550,7 @@ dfs with page group included in a single page
 
 pdfTeX warning: pdflatex (file ./delrjW.pdf): PDF inclusion: found PDF version 
 <1.6>, but at most version <1.5> allowed
-<delrjW.pdf, id=1470, 578.16pt x 433.62pt>
+<delrjW.pdf, id=1505, 578.16pt x 433.62pt>
 File: delrjW.pdf Graphic file (type pdf)
  <use delrjW.pdf>
 Package pdftex.def Info: delrjW.pdf used on input line 255.
@@ -567,20 +563,20 @@ fs with page group included in a single page
 
 pdfTeX warning: pdflatex (file ./delrjW.pdf): PDF inclusion: multiple pdfs with
  page group included in a single page
->] <Zgammaratio.pdf, id=1753, 337.16966pt x 361.35pt>
+>] <Zgammaratio.pdf, id=1788, 337.16966pt x 361.35pt>
 File: Zgammaratio.pdf Graphic file (type pdf)
  <use Zgammaratio.pdf>
 Package pdftex.def Info: Zgammaratio.pdf used on input line 273.
 (pdftex.def)             Requested size: 212.95006pt x 228.22513pt.
 
-<WinJet_dR_mu_jet_1jex2jin.pdf, id=1754, 394.07225pt x 418.2526pt>
+<WinJet_dR_mu_jet_1jex2jin.pdf, id=1789, 394.07225pt x 418.2526pt>
 File: WinJet_dR_mu_jet_1jex2jin.pdf Graphic file (type pdf)
 
 <use WinJet_dR_mu_jet_1jex2jin.pdf>
 Package pdftex.def Info: WinJet_dR_mu_jet_1jex2jin.pdf used on input line 280.
 (pdftex.def)             Requested size: 212.95006pt x 226.01897pt.
 
-<fig_05b.pdf, id=1755, 549.05125pt x 739.76375pt>
+<fig_05b.pdf, id=1790, 549.05125pt x 739.76375pt>
 File: fig_05b.pdf Graphic file (type pdf)
  <use fig_05b.pdf>
 Package pdftex.def Info: fig_05b.pdf used on input line 281.
@@ -590,76 +586,123 @@ Underfull \vbox (badness 1609) has occurred while \output is active []
 
  [12 <./Zgammaratio.pdf>] [13 <./WinJet_dR_mu_jet_1jex2jin.pdf> <./fig_05b.pdf>
 ]
+Package epstopdf Info: Source file: <lumiGG_baselineP8tev.eps>
+(epstopdf)                    date: 2017-07-20 10:43:50
+(epstopdf)                    size: 12354 bytes
+(epstopdf)             Output file: <lumiGG_baselineP8tev-eps-converted-to.pdf>
 
-LaTeX Warning: Reference `systHinv' on page 14 undefined on input line 313.
+(epstopdf)                    date: 2017-07-20 10:44:50
+(epstopdf)                    size: 11511 bytes
+(epstopdf)             Command: <repstopdf --outfile=lumiGG_baselineP8tev-eps-c
+onverted-to.pdf lumiGG_baselineP8tev.eps>
+(epstopdf)             \includegraphics on input line 369.
+Package epstopdf Info: Output file is already uptodate.
 
-<systable.pdf, id=1844, 278.90138pt x 297.2713pt>
+<lumiGG_baselineP8tev-eps-converted-to.pdf, id=1892, 569.12625pt x 385.44pt>
+File: lumiGG_baselineP8tev-eps-converted-to.pdf Graphic file (type pdf)
+
+<use lumiGG_baselineP8tev-eps-converted-to.pdf>
+Package pdftex.def Info: lumiGG_baselineP8tev-eps-converted-to.pdf used on inpu
+t line 369.
+(pdftex.def)             Requested size: 137.66919pt x 93.23677pt.
+Package epstopdf Info: Source file: <lumiQG_baselineP8tev.eps>
+(epstopdf)                    date: 2017-07-20 10:43:56
+(epstopdf)                    size: 12568 bytes
+(epstopdf)             Output file: <lumiQG_baselineP8tev-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2017-07-20 10:44:51
+(epstopdf)                    size: 11722 bytes
+(epstopdf)             Command: <repstopdf --outfile=lumiQG_baselineP8tev-eps-c
+onverted-to.pdf lumiQG_baselineP8tev.eps>
+(epstopdf)             \includegraphics on input line 370.
+Package epstopdf Info: Output file is already uptodate.
+
+<lumiQG_baselineP8tev-eps-converted-to.pdf, id=1893, 569.12625pt x 385.44pt>
+File: lumiQG_baselineP8tev-eps-converted-to.pdf Graphic file (type pdf)
+
+<use lumiQG_baselineP8tev-eps-converted-to.pdf>
+Package pdftex.def Info: lumiQG_baselineP8tev-eps-converted-to.pdf used on inpu
+t line 370.
+(pdftex.def)             Requested size: 137.66919pt x 93.23677pt.
+Package epstopdf Info: Source file: <lumiQQ_baselineP8tev.eps>
+(epstopdf)                    date: 2017-07-20 10:43:38
+(epstopdf)                    size: 12377 bytes
+(epstopdf)             Output file: <lumiQQ_baselineP8tev-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2017-07-20 10:44:51
+(epstopdf)                    size: 11784 bytes
+(epstopdf)             Command: <repstopdf --outfile=lumiQQ_baselineP8tev-eps-c
+onverted-to.pdf lumiQQ_baselineP8tev.eps>
+(epstopdf)             \includegraphics on input line 371.
+Package epstopdf Info: Output file is already uptodate.
+
+<lumiQQ_baselineP8tev-eps-converted-to.pdf, id=1894, 569.12625pt x 385.44pt>
+File: lumiQQ_baselineP8tev-eps-converted-to.pdf Graphic file (type pdf)
+
+<use lumiQQ_baselineP8tev-eps-converted-to.pdf>
+Package pdftex.def Info: lumiQQ_baselineP8tev-eps-converted-to.pdf used on inpu
+t line 371.
+(pdftex.def)             Requested size: 137.66919pt x 93.23677pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [14 <./lumiGG_baselineP8tev-eps-converted-to.pdf> <./lumiQG_baselineP8tev-eps-
+converted-to.pdf> <./lumiQQ_baselineP8tev-eps-converted-to.pdf>]
+<systable.pdf, id=1940, 278.90138pt x 297.2713pt>
 File: systable.pdf Graphic file (type pdf)
  <use systable.pdf>
-Package pdftex.def Info: systable.pdf used on input line 316.
+Package pdftex.def Info: systable.pdf used on input line 389.
 (pdftex.def)             Requested size: 212.95006pt x 226.98088pt.
 
-<systable2.pdf, id=1845, 280.56348pt x 212.75845pt>
+<systable2.pdf, id=1941, 280.56348pt x 212.75845pt>
 File: systable2.pdf Graphic file (type pdf)
  <use systable2.pdf>
-Package pdftex.def Info: systable2.pdf used on input line 317.
+Package pdftex.def Info: systable2.pdf used on input line 390.
 (pdftex.def)             Requested size: 212.95006pt x 161.48384pt.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 326.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 399.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 326.
-
-Overfull \hbox (35.11339pt too wide) in paragraph at lines 328--329
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 399.
+ [15]
+Overfull \hbox (35.11339pt too wide) in paragraph at lines 401--402
 \OT1/cmr/m/n/10.95 tions. Ap-prox-i-mate fixed or-der NLO EWK cor-rec-tions are
  avail-able in \OT1/cmr/m/sc/10.95 Sherpa\OT1/cmr/m/n/10.95 +\OT1/cmr/m/sc/10.9
 5 OpenLoops
  []
 
-[14]
-Overfull \hbox (27.99907pt too wide) in paragraph at lines 333--334
-[]\OT1/cmr/m/n/10.95 Important to pub-lish more ex-clu-sive dis-tri-bu-tions of
- kine-matic quan-ti-ties e.g $[]$distribution
- []
-
-[15 <./systable.pdf> <./systable2.pdf>]
-Overfull \hbox (39.77733pt too wide) in paragraph at lines 336--337
+[16 <./systable.pdf> <./systable2.pdf>]
+Overfull \hbox (1.39145pt too wide) in paragraph at lines 409--410
 []\OT1/cmr/m/n/10.95 Need higher-order EW cor-rec-tions for QCD & EW V+jets in 
-VBF topolo-gies. \OT1/cmr/m/sc/10.95 Sherpa\OT1/cmr/m/n/10.95 includes
+VBF topolo-gies. \OT1/cmr/m/sc/10.95 Sherpa
  []
 
-(./VJets.bbl)
-
-Package natbib Warning: There were undefined citations.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 342.
-[16]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 342.
+(./VJets.bbl [17])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 415.
+ [18]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 415.
  (./VJets.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 342.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 342.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 415.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 415.
 Package rerunfilecheck Info: File `VJets.out' has not changed.
 (rerunfilecheck)             Checksum: B95E05A31494B9A9F908AF83C778009E;538.
 
 
-LaTeX Warning: There were undefined references.
-
-
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 342.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 415.
  ) 
 Here is how much of TeX's memory you used:
- 6769 strings out of 493089
- 96571 string characters out of 6134842
- 188396 words of memory out of 5000000
- 10102 multiletter control sequences out of 15000+600000
+ 6891 strings out of 493089
+ 99489 string characters out of 6134842
+ 188937 words of memory out of 5000000
+ 10191 multiletter control sequences out of 15000+600000
  14445 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,11n,30p,1578b,393s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,11n,30p,1580b,521s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pf
 b></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
@@ -684,10 +727,10 @@ helvetic/uhvr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/palatin
 o/uplb8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/palatino/uplbi
 8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
 </usr/local/texlive/2015/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on VJets.pdf (17 pages, 1842837 bytes).
+Output written on VJets.pdf (19 pages, 1876753 bytes).
 PDF statistics:
- 1977 PDF objects out of 2073 (max. 8388607)
- 1189 compressed objects within 12 object streams
- 43 named destinations out of 1000 (max. 500000)
- 170 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2083 PDF objects out of 2487 (max. 8388607)
+ 1280 compressed objects within 13 object streams
+ 72 named destinations out of 1000 (max. 500000)
+ 185 words of extra memory for PDF output out of 10000 (max. 10000000)
 
