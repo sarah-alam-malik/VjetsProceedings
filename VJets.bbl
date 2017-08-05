@@ -1,224 +1,275 @@
+
 \providecommand{\href}[2]{#2}\begingroup\raggedright\begin{thebibliography}{10}
+
 \bibitem{Aaboud:2017hbk}
-  M.~Aaboud {\it et al.} [ATLAS Collaboration],
-  %``Measurements of the production cross section of a $Z$ boson in association with jets in pp collisions at $\sqrt{s} = 13$  TeV with the ATLAS detector,''
-  Eur.\ Phys.\ J.\ C {\bf 77} (2017) no.6,  361
-  doi:10.1140/epjc/s10052-017-4900-z
-  [arXiv:1702.05725 [hep-ex]].
-  %%CITATION = doi:10.1140/epjc/s10052-017-4900-z;%%
-  %6 citations counted in INSPIRE as of 17 Jul 2017
-\bibitem{Khachatryan:2015ira}
-  V.~Khachatryan {\it et al.} [CMS Collaboration],
-  %``Comparison of the Z/$\gamma$$^{∗}$ + jets to $\gamma$ + jets cross sections in pp collisions at $ \sqrt{s}=8 $ TeV,''
-  JHEP {\bf 1510} (2015) 128
-   Erratum: [JHEP {\bf 1604} (2016) 010]
-  doi:10.1007/JHEP04(2016)010, 10.1007/JHEP10(2015)128
-  [arXiv:1505.06520 [hep-ex]].
-  %%CITATION = doi:10.1007/JHEP04(2016)010, 10.1007/JHEP10(2015)128;%%
-  %23 citations counted in INSPIRE as of 31 May 2017
+{\scshape ATLAS} collaboration, M.~Aaboud et~al., \textit{{Measurements of the
+  production cross section of a $Z$ boson in association with jets in pp
+  collisions at $\sqrt{s} = 13$ TeV with the ATLAS detector}},
+  \href{http://dx.doi.org/10.1140/epjc/s10052-017-4900-z}{\emph{Eur. Phys. J.}
+  {\bfseries C77} (2017) 361},
+  [\href{https://arxiv.org/abs/1702.05725}{{\ttfamily 1702.05725}}].
 
 \bibitem{Gleisberg:2008ta}
-  T.~Gleisberg, S.~Hoeche, F.~Krauss, M.~Schonherr, S.~Schumann, F.~Siegert and J.~Winter,
-  %``Event generation with SHERPA 1.1,''
-  JHEP {\bf 0902} (2009) 007
-  doi:10.1088/1126-6708/2009/02/007
-  [arXiv:0811.4622 [hep-ph]].
-  %%CITATION = doi:10.1088/1126-6708/2009/02/007;%%
-  %1852 citations counted in INSPIRE as of 13 Jul 2017
-
+T.~Gleisberg, S.~Hoeche, F.~Krauss, M.~Schonherr, S.~Schumann, F.~Siegert
+  et~al., \textit{{Event generation with SHERPA 1.1}},
+  \href{http://dx.doi.org/10.1088/1126-6708/2009/02/007}{\emph{JHEP} {\bfseries
+  02} (2009) 007}, [\href{https://arxiv.org/abs/0811.4622}{{\ttfamily
+  0811.4622}}].
 
 \bibitem{Gleisberg:2008fv}
-  T.~Gleisberg and S.~Hoeche,
-  %``Comix, a new matrix element generator,''
-  JHEP {\bf 0812} (2008) 039
-  doi:10.1088/1126-6708/2008/12/039
-  [arXiv:0808.3674 [hep-ph]].
-  %%CITATION = doi:10.1088/1126-6708/2008/12/039;%%
-  %348 citations counted in INSPIRE as of 13 Jul 2017
+T.~Gleisberg and S.~Hoeche, \textit{{Comix, a new matrix element generator}},
+  \href{http://dx.doi.org/10.1088/1126-6708/2008/12/039}{\emph{JHEP} {\bfseries
+  12} (2008) 039}, [\href{https://arxiv.org/abs/0808.3674}{{\ttfamily
+  0808.3674}}].
 
 \bibitem{Cascioli:2011va}
-  F.~Cascioli, P.~Maierhofer and S.~Pozzorini,
-  %``Scattering Amplitudes with Open Loops,''
-  Phys.\ Rev.\ Lett.\  {\bf 108} (2012) 111601
-  doi:10.1103/PhysRevLett.108.111601
-  [arXiv:1111.5206 [hep-ph]].
-  %%CITATION = doi:10.1103/PhysRevLett.108.111601;%%
-  %422 citations counted in INSPIRE as of 13 Jul 2017
+F.~Cascioli, P.~Maierh{\"o}fer and S.~Pozzorini, \textit{{Scattering Amplitudes
+  with Open Loops}},
+  \href{http://dx.doi.org/10.1103/PhysRevLett.108.111601}{\emph{Phys.Rev.Lett.}
+  {\bfseries 108} (2012) 111601},
+  [\href{https://arxiv.org/abs/1111.5206}{{\ttfamily 1111.5206}}].
 
 \bibitem{Alwall:2014hca}
-  J.~Alwall {\it et al.},
-  %``The automated computation of tree-level and next-to-leading order differential cross sections, and their matching to parton shower simulations,''
-  JHEP {\bf 1407} (2014) 079
-  doi:10.1007/JHEP07(2014)079
-  [arXiv:1405.0301 [hep-ph]].
-  %%CITATION = doi:10.1007/JHEP07(2014)079;%%
-  %2016 citations counted in INSPIRE as of 13 Jul 2017
+J.~Alwall, R.~Frederix, S.~Frixione, V.~Hirschi, F.~Maltoni, O.~Mattelaer
+  et~al., \textit{{The automated computation of tree-level and next-to-leading
+  order differential cross sections, and their matching to parton shower
+  simulations}}, \href{http://dx.doi.org/10.1007/JHEP07(2014)079}{\emph{JHEP}
+  {\bfseries 07} (2014) 079},
+  [\href{https://arxiv.org/abs/1405.0301}{{\ttfamily 1405.0301}}].
+
 \bibitem{Sjostrand:2007gs}
-  T.~Sjostrand, S.~Mrenna and P.~Z.~Skands,
-  %``A Brief Introduction to PYTHIA 8.1,''
-  Comput.\ Phys.\ Commun.\  {\bf 178} (2008) 852
-  doi:10.1016/j.cpc.2008.01.036
-  [arXiv:0710.3820 [hep-ph]].
-  %%CITATION = doi:10.1016/j.cpc.2008.01.036;%%
-  %3219 citations counted in INSPIRE as of 13 Jul 2017
+T.~Sjostrand, S.~Mrenna and P.~Z. Skands, \textit{{A Brief Introduction to
+  PYTHIA 8.1}},
+  \href{http://dx.doi.org/10.1016/j.cpc.2008.01.036}{\emph{Comput. Phys.
+  Commun.} {\bfseries 178} (2008) 852--867},
+  [\href{https://arxiv.org/abs/0710.3820}{{\ttfamily 0710.3820}}].
+
 \bibitem{Lonnblad:2001iq}
-  L.~Lonnblad,
-  %``Correcting the color dipole cascade model with fixed order matrix elements,''
-  JHEP {\bf 0205} (2002) 046
-  doi:10.1088/1126-6708/2002/05/046
-  [hep-ph/0112284].
-  %%CITATION = doi:10.1088/1126-6708/2002/05/046;%%
-  %236 citations counted in INSPIRE as of 13 Jul 2017
+L.~Lonnblad, \textit{{Correcting the color dipole cascade model with fixed
+  order matrix elements}},
+  \href{http://dx.doi.org/10.1088/1126-6708/2002/05/046}{\emph{JHEP} {\bfseries
+  05} (2002) 046}, [\href{https://arxiv.org/abs/hep-ph/0112284}{{\ttfamily
+  hep-ph/0112284}}].
+
 \bibitem{Frederix:2012ps}
-  R.~Frederix and S.~Frixione,
-  %``Merging meets matching in MC@NLO,''
-  JHEP {\bf 1212} (2012) 061
-  doi:10.1007/JHEP12(2012)061
-  [arXiv:1209.6215 [hep-ph]].
-  %%CITATION = doi:10.1007/JHEP12(2012)061;%%
-  %211 citations counted in INSPIRE as of 13 Jul 2017
+R.~Frederix and S.~Frixione, \textit{{Merging meets matching in MC@NLO}},
+  \href{http://dx.doi.org/10.1007/JHEP12(2012)061}{\emph{JHEP} {\bfseries 12}
+  (2012) 061}, [\href{https://arxiv.org/abs/1209.6215}{{\ttfamily 1209.6215}}].
+
 \bibitem{Mangano:2002ea}
-  M.~L.~Mangano, M.~Moretti, F.~Piccinini, R.~Pittau and A.~D.~Polosa,
-  %``ALPGEN, a generator for hard multiparton processes in hadronic collisions,''
-  JHEP {\bf 0307} (2003) 001
-  doi:10.1088/1126-6708/2003/07/001
-  [hep-ph/0206293].
-  %%CITATION = doi:10.1088/1126-6708/2003/07/001;%%
-  %2907 citations counted in INSPIRE as of 13 Jul 2017
+M.~L. Mangano, M.~Moretti, F.~Piccinini, R.~Pittau and A.~D. Polosa,
+  \textit{{ALPGEN, a generator for hard multiparton processes in hadronic
+  collisions}},
+  \href{http://dx.doi.org/10.1088/1126-6708/2003/07/001}{\emph{JHEP} {\bfseries
+  07} (2003) 001}, [\href{https://arxiv.org/abs/hep-ph/0206293}{{\ttfamily
+  hep-ph/0206293}}].
+
 \bibitem{Sjostrand:2006za}
-  T.~Sjostrand, S.~Mrenna and P.~Z.~Skands,
-  %``PYTHIA 6.4 Physics and Manual,''
-  JHEP {\bf 0605} (2006) 026
-  doi:10.1088/1126-6708/2006/05/026
-  [hep-ph/0603175].
-  %%CITATION = doi:10.1088/1126-6708/2006/05/026;%%
-  %8765 citations counted in INSPIRE as of 13 Jul 2017
+T.~Sjostrand, S.~Mrenna and P.~Z. Skands, \textit{{PYTHIA 6.4 Physics and
+  Manual}}, \href{http://dx.doi.org/10.1088/1126-6708/2006/05/026}{\emph{JHEP}
+  {\bfseries 05} (2006) 026},
+  [\href{https://arxiv.org/abs/hep-ph/0603175}{{\ttfamily hep-ph/0603175}}].
+
 \bibitem{Berger:2010vm}
-  C.~F.~Berger {\it et al.},
-  %``Next-to-Leading Order {QCD} Predictions for $Z, \gamma^*$ + 3-Jet Distributions at the Tevatron,''
-  Phys.\ Rev.\ D {\bf 82} (2010) 074002
-  doi:10.1103/PhysRevD.82.074002
-  [arXiv:1004.1659 [hep-ph]].
-  %%CITATION = doi:10.1103/PhysRevD.82.074002;%%
-  %167 citations counted in INSPIRE as of 13 Jul 2017
+C.~F. Berger, Z.~Bern, L.~J. Dixon, F.~Febres~Cordero, D.~Forde, T.~Gleisberg
+  et~al., \textit{{Next-to-Leading Order {QCD} Predictions for $Z, \gamma^*$ +
+  3-Jet Distributions at the Tevatron}},
+  \href{http://dx.doi.org/10.1103/PhysRevD.82.074002}{\emph{Phys. Rev.}
+  {\bfseries D82} (2010) 074002},
+  [\href{https://arxiv.org/abs/1004.1659}{{\ttfamily 1004.1659}}].
+
 \bibitem{Ita:2011wn}
-  H.~Ita, Z.~Bern, L.~J.~Dixon, F.~Febres Cordero, D.~A.~Kosower and D.~Maitre,
-  %``Precise Predictions for Z + 4 Jets at Hadron Colliders,''
-  Phys.\ Rev.\ D {\bf 85} (2012) 031501
-  doi:10.1103/PhysRevD.85.031501
-  [arXiv:1108.2229 [hep-ph]].
-  %%CITATION = doi:10.1103/PhysRevD.85.031501;%%
-  %140 citations counted in INSPIRE as of 13 Jul 2017
+H.~Ita, Z.~Bern, L.~J. Dixon, F.~Febres~Cordero, D.~A. Kosower and D.~Maitre,
+  \textit{{Precise Predictions for Z + 4 Jets at Hadron Colliders}},
+  \href{http://dx.doi.org/10.1103/PhysRevD.85.031501}{\emph{Phys. Rev.}
+  {\bfseries D85} (2012) 031501},
+  [\href{https://arxiv.org/abs/1108.2229}{{\ttfamily 1108.2229}}].
+
 \bibitem{Boughezal:2015dva}
-  R.~Boughezal, C.~Focke, X.~Liu and F.~Petriello,
-  %``$W$-boson production in association with a jet at next-to-next-to-leading order in perturbative QCD,''
-  Phys.\ Rev.\ Lett.\  {\bf 115} (2015) no.6,  062002
-  doi:10.1103/PhysRevLett.115.062002
-  [arXiv:1504.02131 [hep-ph]].
-  %%CITATION = doi:10.1103/PhysRevLett.115.062002;%%
-  %102 citations counted in INSPIRE as of 13 Jul 2017
-\bibitem{Alwall:2011uj}
-  J.~Alwall, M.~Herquet, F.~Maltoni, O.~Mattelaer and T.~Stelzer,
-  %``MadGraph 5 : Going Beyond,''
-  JHEP {\bf 1106} (2011) 128
-  doi:10.1007/JHEP06(2011)128
-  [arXiv:1106.0522 [hep-ph]].
-  %%CITATION = doi:10.1007/JHEP06(2011)128;%%
-  %2435 citations counted in INSPIRE as of 13 Jul 2017
+R.~Boughezal, C.~Focke, X.~Liu and F.~Petriello, \textit{{$W$-boson production
+  in association with a jet at next-to-next-to-leading order in perturbative
+  QCD}}, \href{http://dx.doi.org/10.1103/PhysRevLett.115.062002}{\emph{Phys.
+  Rev. Lett.} {\bfseries 115} (2015) 062002},
+  [\href{https://arxiv.org/abs/1504.02131}{{\ttfamily 1504.02131}}].
+
+\bibitem{Khachatryan:2015ira}
+{\scshape CMS} collaboration, V.~Khachatryan et~al., \textit{{Comparison of the
+  Z/$\gamma$$^{∗}$ + jets to $\gamma$ + jets cross sections in pp collisions
+  at $ \sqrt{s}=8 $ TeV}}, \href{http://dx.doi.org/10.1007/JHEP04(2016)010,
+  10.1007/JHEP10(2015)128}{\emph{JHEP} {\bfseries 10} (2015) 128},
+  [\href{https://arxiv.org/abs/1505.06520}{{\ttfamily 1505.06520}}].
+
 \bibitem{Bern:2012vx}
-  Z.~Bern {\it et al.},
-  %``Missing Energy and Jets for Supersymmetry Searches,''
-  Phys.\ Rev.\ D {\bf 87} (2013) no.3,  034026
-  doi:10.1103/PhysRevD.87.034026
-  [arXiv:1206.6064 [hep-ph]].
-  %%CITATION = doi:10.1103/PhysRevD.87.034026;%%
-  %27 citations counted in INSPIRE as of 17 Jul 2017
+Z.~Bern, G.~Diana, L.~J. Dixon, F.~Febres~Cordero, S.~Höche, H.~Ita et~al.,
+  \textit{{Missing Energy and Jets for Supersymmetry Searches}},
+  \href{http://dx.doi.org/10.1103/PhysRevD.87.034026}{\emph{Phys. Rev.}
+  {\bfseries D87} (2013) 034026},
+  [\href{https://arxiv.org/abs/1206.6064}{{\ttfamily 1206.6064}}].
+
+\bibitem{Alwall:2011uj}
+J.~Alwall, M.~Herquet, F.~Maltoni, O.~Mattelaer and T.~Stelzer,
+  \textit{{MadGraph 5 : Going Beyond}},
+  \href{http://dx.doi.org/10.1007/JHEP06(2011)128}{\emph{JHEP} {\bfseries 06}
+  (2011) 128}, [\href{https://arxiv.org/abs/1106.0522}{{\ttfamily 1106.0522}}].
+
 \bibitem{Alwall:2007fs}
-  J.~Alwall {\it et al.},
-  %``Comparative study of various algorithms for the merging of parton showers and matrix elements in hadronic collisions,''
-  Eur.\ Phys.\ J.\ C {\bf 53} (2008) 473
-  doi:10.1140/epjc/s10052-007-0490-5
-  [arXiv:0706.2569 [hep-ph]].
-  %%CITATION = doi:10.1140/epjc/s10052-007-0490-5;%%
-  %588 citations counted in INSPIRE as of 17 Jul 2017
+J.~Alwall et~al., \textit{{Comparative study of various algorithms for the
+  merging of parton showers and matrix elements in hadronic collisions}},
+  \href{http://dx.doi.org/10.1140/epjc/s10052-007-0490-5}{\emph{Eur. Phys. J.}
+  {\bfseries C53} (2008) 473--500},
+  [\href{https://arxiv.org/abs/0706.2569}{{\ttfamily 0706.2569}}].
+
 \bibitem{Gavin:2010az}
-  R.~Gavin, Y.~Li, F.~Petriello and S.~Quackenbush,
-  %``FEWZ 2.0: A code for hadronic Z production at next-to-next-to-leading order,''
-  Comput.\ Phys.\ Commun.\  {\bf 182} (2011) 2388
-  doi:10.1016/j.cpc.2011.06.008
-  [arXiv:1011.3540 [hep-ph]].
-  %%CITATION = doi:10.1016/j.cpc.2011.06.008;%%
-  %547 citations counted in INSPIRE as of 17 Jul 2017
-\bibitem{Boughezal:2017nla}
-  R.~Boughezal, A.~Guffanti, F.~Petriello and M.~Ubiali,
-  %``The impact of the LHC Z-boson transverse momentum data on PDF determinations,''
-  arXiv:1705.00343 [hep-ph].
-  %%CITATION = ARXIV:1705.00343;%%
-  %3 citations counted in INSPIRE as of 20 Jul 2017
-\bibitem{Boughezal:2015ded}
-  R.~Boughezal, J.~M.~Campbell, R.~K.~Ellis, C.~Focke, W.~T.~Giele, X.~Liu and F.~Petriello,
-  %``Z-boson production in association with a jet at next-to-next-to-leading order in perturbative QCD,''
-  Phys.\ Rev.\ Lett.\  {\bf 116} (2016) no.15,  152001
-  doi:10.1103/PhysRevLett.116.152001
-  [arXiv:1512.01291 [hep-ph]].
-  %%CITATION = doi:10.1103/PhysRevLett.116.152001;%%
-  %48 citations counted in INSPIRE as of 20 Jul 2017
-\bibitem{Boughezal:2016isb}
-  R.~Boughezal, X.~Liu and F.~Petriello,
-  %``Phenomenology of the Z-boson plus jet process at NNLO,''
-  Phys.\ Rev.\ D {\bf 94} (2016) no.7,  074015
-  doi:10.1103/PhysRevD.94.074015
-  [arXiv:1602.08140 [hep-ph]].
-  %%CITATION = doi:10.1103/PhysRevD.94.074015;%%
-  %23 citations counted in INSPIRE as of 20 Jul 2017
-\bibitem{Gehrmann-DeRidder:2016jns}
-  A.~Gehrmann-De Ridder, T.~Gehrmann, E.~W.~N.~Glover, A.~Huss and T.~A.~Morgan,
-  %``NNLO QCD corrections for Drell-Yan $p_T^Z$ and $\phi^*$ observables at the LHC,''
-  JHEP {\bf 1611} (2016) 094
-  doi:10.1007/JHEP11(2016)094
-  [arXiv:1610.01843 [hep-ph]].
-  %%CITATION = doi:10.1007/JHEP11(2016)094;%%
-  %8 citations counted in INSPIRE as of 20 Jul 2017
+R.~Gavin, Y.~Li, F.~Petriello and S.~Quackenbush, \textit{{FEWZ 2.0: A code for
+  hadronic Z production at next-to-next-to-leading order}},
+  \href{http://dx.doi.org/10.1016/j.cpc.2011.06.008}{\emph{Comput. Phys.
+  Commun.} {\bfseries 182} (2011) 2388--2403},
+  [\href{https://arxiv.org/abs/1011.3540}{{\ttfamily 1011.3540}}].
+
+\bibitem{Ridder:2015dxa}
+A.~Gehrmann-De~Ridder, T.~Gehrmann, E.~W.~N. Glover, A.~Huss and T.~A. Morgan,
+  \textit{{Precise QCD predictions for the production of a Z boson in
+  association with a hadronic jet}},
+  \href{http://dx.doi.org/10.1103/PhysRevLett.117.022001}{\emph{Phys. Rev.
+  Lett.} {\bfseries 117} (2016) 022001},
+  [\href{https://arxiv.org/abs/1507.02850}{{\ttfamily 1507.02850}}].
+
 \bibitem{Ridder:2016nkl}
-  A.~Gehrmann-De Ridder, T.~Gehrmann, E.~W.~N.~Glover, A.~Huss and T.~A.~Morgan,
-  %``The NNLO QCD corrections to Z boson production at large transverse momentum,''
-  JHEP {\bf 1607} (2016) 133
-  doi:10.1007/JHEP07(2016)133
-  [arXiv:1605.04295 [hep-ph]].
-  %%CITATION = doi:10.1007/JHEP07(2016)133;%%
-  %34 citations counted in INSPIRE as of 20 Jul 2017
+A.~Gehrmann-De~Ridder, T.~Gehrmann, E.~W.~N. Glover, A.~Huss and T.~A. Morgan,
+  \textit{{The NNLO QCD corrections to Z boson production at large transverse
+  momentum}}, \href{http://dx.doi.org/10.1007/JHEP07(2016)133}{\emph{JHEP}
+  {\bfseries 07} (2016) 133},
+  [\href{https://arxiv.org/abs/1605.04295}{{\ttfamily 1605.04295}}].
+
+\bibitem{Gehrmann-DeRidder:2016jns}
+A.~Gehrmann-De~Ridder, T.~Gehrmann, E.~W.~N. Glover, A.~Huss and T.~A. Morgan,
+  \textit{{NNLO QCD corrections for Drell-Yan $p_T^Z$ and $\phi^*$ observables
+  at the LHC}}, \href{http://dx.doi.org/10.1007/JHEP11(2016)094}{\emph{JHEP}
+  {\bfseries 11} (2016) 094},
+  [\href{https://arxiv.org/abs/1610.01843}{{\ttfamily 1610.01843}}].
+
+\bibitem{Boughezal:2015ded}
+R.~Boughezal, J.~M. Campbell, R.~K. Ellis, C.~Focke, W.~T. Giele, X.~Liu
+  et~al., \textit{{Z-boson production in association with a jet at
+  next-to-next-to-leading order in perturbative QCD}},
+  \href{http://dx.doi.org/10.1103/PhysRevLett.116.152001}{\emph{Phys. Rev.
+  Lett.} {\bfseries 116} (2016) 152001},
+  [\href{https://arxiv.org/abs/1512.01291}{{\ttfamily 1512.01291}}].
+
+\bibitem{Boughezal:2016isb}
+R.~Boughezal, X.~Liu and F.~Petriello, \textit{{Phenomenology of the Z-boson
+  plus jet process at NNLO}},
+  \href{http://dx.doi.org/10.1103/PhysRevD.94.074015}{\emph{Phys. Rev.}
+  {\bfseries D94} (2016) 074015},
+  [\href{https://arxiv.org/abs/1602.08140}{{\ttfamily 1602.08140}}].
+
+\bibitem{Boughezal:2016dtm}
+R.~Boughezal, X.~Liu and F.~Petriello, \textit{{W-boson plus jet differential
+  distributions at NNLO in QCD}},
+  \href{http://dx.doi.org/10.1103/PhysRevD.94.113009}{\emph{Phys. Rev.}
+  {\bfseries D94} (2016) 113009},
+  [\href{https://arxiv.org/abs/1602.06965}{{\ttfamily 1602.06965}}].
+
+\bibitem{Campbell:2016lzl}
+J.~M. Campbell, R.~K. Ellis and C.~Williams, \textit{{Direct photon production
+  at next-to-next-to-leading order}},
+  \href{https://arxiv.org/abs/1612.04333}{{\ttfamily 1612.04333}}.
+
+\bibitem{Campbell:2017dqk}
+J.~M. Campbell, R.~K. Ellis and C.~Williams, \textit{{Driving Miss Data: Going
+  Up a Gear to NNLO}},  \href{https://arxiv.org/abs/1703.10109}{{\ttfamily
+  1703.10109}}.
+
+\bibitem{Denner:2009gj}
+A.~Denner, S.~Dittmaier, T.~Kasprzik and A.~{M\"uck}, \textit{{Electroweak
+  corrections to W + jet hadroproduction including leptonic W-boson decays}},
+  \href{http://dx.doi.org/10.1088/1126-6708/2009/08/075}{\emph{JHEP} {\bfseries
+  08} (2009) 075}, [\href{https://arxiv.org/abs/0906.1656}{{\ttfamily
+  0906.1656}}].
+
+\bibitem{Denner:2011vu}
+A.~Denner, S.~Dittmaier, T.~Kasprzik and A.~{M\"uck}, \textit{{Electroweak
+  corrections to dilepton + jet production at hadron colliders}},
+  \href{http://dx.doi.org/10.1007/JHEP06(2011)069}{\emph{JHEP} {\bfseries 06}
+  (2011) 069}, [\href{https://arxiv.org/abs/1103.0914}{{\ttfamily 1103.0914}}].
+
+\bibitem{Denner:2012ts}
+A.~Denner, S.~Dittmaier, T.~Kasprzik and A.~{M\"uck}, \textit{{Electroweak
+  corrections to monojet production at the LHC}},
+  \href{http://dx.doi.org/10.1140/epjc/s10052-013-2297-x}{\emph{Eur. Phys. J.}
+  {\bfseries C73} (2013) 2297},
+  [\href{https://arxiv.org/abs/1211.5078}{{\ttfamily 1211.5078}}].
+
+\bibitem{Denner:2014ina}
+A.~Denner, L.~Hofer, A.~Scharf and S.~Uccirati, \textit{{Electroweak
+  corrections to lepton pair production in association with two hard jets at
+  the LHC}}, \href{http://dx.doi.org/10.1007/JHEP01(2015)094}{\emph{JHEP}
+  {\bfseries 01} (2015) 094},
+  [\href{https://arxiv.org/abs/1411.0916}{{\ttfamily 1411.0916}}].
+
+\bibitem{Kallweit:2015dum}
+S.~Kallweit, J.~M. Lindert, P.~Maierhoefer, S.~Pozzorini and M.~Schoenherr,
+  \textit{{NLO QCD+EW predictions for V + jets including off-shell vector-boson
+  decays and multijet merging}},
+  \href{http://dx.doi.org/10.1007/JHEP04(2016)021}{\emph{JHEP} {\bfseries 04}
+  (2016) 021}, [\href{https://arxiv.org/abs/1511.08692}{{\ttfamily
+  1511.08692}}].
+
+\bibitem{Kallweit:2014xda}
+S.~Kallweit, J.~M. Lindert, P.~Maierhoefer, S.~Pozzorini and M.~Schoenherr,
+  \textit{{NLO electroweak automation and precise predictions for W+multijet
+  production at the LHC}},
+  \href{http://dx.doi.org/10.1007/JHEP04(2015)012}{\emph{JHEP} {\bfseries 04}
+  (2015) 012}, [\href{https://arxiv.org/abs/1412.5157}{{\ttfamily 1412.5157}}].
+
+\bibitem{Lindert:2017olm}
+J.~M. Lindert et~al., \textit{{Precise predictions for V+jets dark matter
+  backgrounds}},  \href{https://arxiv.org/abs/1705.04664}{{\ttfamily
+  1705.04664}}.
+
+\bibitem{Boughezal:2017nla}
+R.~Boughezal, A.~Guffanti, F.~Petriello and M.~Ubiali, \textit{{The impact of
+  the LHC Z-boson transverse momentum data on PDF determinations}},
+  \href{https://arxiv.org/abs/1705.00343}{{\ttfamily 1705.00343}}.
+
 \bibitem{Ball:2014uwa}
-  R.~D.~Ball {\it et al.} [NNPDF Collaboration],
-  %``Parton distributions for the LHC Run II,''
-  JHEP {\bf 1504} (2015) 040
-  doi:10.1007/JHEP04(2015)040
-  [arXiv:1410.8849 [hep-ph]].
-  %%CITATION = doi:10.1007/JHEP04(2015)040;%%
-  %758 citations counted in INSPIRE as of 20 Jul 2017
+{\scshape NNPDF} collaboration, R.~D. Ball et~al., \textit{{Parton
+  distributions for the LHC Run II}},
+  \href{http://dx.doi.org/10.1007/JHEP04(2015)040}{\emph{JHEP} {\bfseries 04}
+  (2015) 040}, [\href{https://arxiv.org/abs/1410.8849}{{\ttfamily 1410.8849}}].
+
 \bibitem{Aad:2014xaa}
-  G.~Aad {\it et al.} [ATLAS Collaboration],
-  %``Measurement of the $Z/\gamma^*$ boson transverse momentum distribution in $pp$ collisions at $\sqrt{s}$ = 7 TeV with the ATLAS detector,''
-  JHEP {\bf 1409} (2014) 145
-  doi:10.1007/JHEP09(2014)145
-  [arXiv:1406.3660 [hep-ex]].
-  %%CITATION = doi:10.1007/JHEP09(2014)145;%%
-  %153 citations counted in INSPIRE as of 20 Jul 2017
+{\scshape ATLAS} collaboration, G.~Aad et~al., \textit{{Measurement of the
+  $Z/\gamma^*$ boson transverse momentum distribution in $pp$ collisions at
+  $\sqrt{s}$ = 7 TeV with the ATLAS detector}},
+  \href{http://dx.doi.org/10.1007/JHEP09(2014)145}{\emph{JHEP} {\bfseries 09}
+  (2014) 145}, [\href{https://arxiv.org/abs/1406.3660}{{\ttfamily 1406.3660}}].
+
 \bibitem{Aad:2015auj}
-  G.~Aad {\it et al.} [ATLAS Collaboration],
-  %``Measurement of the transverse momentum and $\phi ^*_{\eta }$ distributions of Drell–Yan lepton pairs in proton–proton collisions at $\sqrt{s}=8$  TeV with the ATLAS detector,''
-  Eur.\ Phys.\ J.\ C {\bf 76} (2016) no.5,  291
-  doi:10.1140/epjc/s10052-016-4070-4
-  [arXiv:1512.02192 [hep-ex]].
-  %%CITATION = doi:10.1140/epjc/s10052-016-4070-4;%%
-  %33 citations counted in INSPIRE as of 20 Jul 2017
+{\scshape ATLAS} collaboration, G.~Aad et~al., \textit{{Measurement of the
+  transverse momentum and $\phi ^*_{\eta }$ distributions of Drell–Yan lepton
+  pairs in proton–proton collisions at $\sqrt{s}=8$ TeV with the ATLAS
+  detector}},
+  \href{http://dx.doi.org/10.1140/epjc/s10052-016-4070-4}{\emph{Eur. Phys. J.}
+  {\bfseries C76} (2016) 291},
+  [\href{https://arxiv.org/abs/1512.02192}{{\ttfamily 1512.02192}}].
+
 \bibitem{Khachatryan:2015oaa}
-  V.~Khachatryan {\it et al.} [CMS Collaboration],
-  %``Measurement of the Z boson differential cross section in transverse momentum and rapidity in proton–proton collisions at 8 TeV,''
-  Phys.\ Lett.\ B {\bf 749} (2015) 187
-  doi:10.1016/j.physletb.2015.07.065
-  [arXiv:1504.03511 [hep-ex]].
-  %%CITATION = doi:10.1016/j.physletb.2015.07.065;%%
-  %35 citations counted in INSPIRE as of 20 Jul 2017
+{\scshape CMS} collaboration, V.~Khachatryan et~al., \textit{{Measurement of
+  the Z boson differential cross section in transverse momentum and rapidity in
+  proton–proton collisions at 8 TeV}},
+  \href{http://dx.doi.org/10.1016/j.physletb.2015.07.065}{\emph{Phys. Lett.}
+  {\bfseries B749} (2015) 187--209},
+  [\href{https://arxiv.org/abs/1504.03511}{{\ttfamily 1504.03511}}].
+
+\bibitem{ATLAS:2017dnw}
+{\scshape ATLAS} collaboration, T.~A. collaboration, \textit{{Search for dark
+  matter and other new phenomena in events with an energetic jet and large
+  missing transverse momentum using the ATLAS detector}}, .
+
+\bibitem{CMS:2017tbk}
+{\scshape CMS} collaboration, C.~Collaboration, \textit{{Search for new physics
+  in final states with an energetic jet or a hadronically decaying W or Z boson
+  using $35.9~\mathrm{fb}^{-1}$ of data at $\sqrt{s} = 13~\mathrm{TeV}$}}, .
+
 \end{thebibliography}\endgroup
-
-

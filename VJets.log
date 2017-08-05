@@ -1,15 +1,15 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  20 JUL 2017 11:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.3.31)  5 AUG 2017 19:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **VJets.tex
 (./VJets.tex
-LaTeX2e <2015/01/01>
-Babel <3.9l> and hyphenation patterns for 79 languages loaded.
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+LaTeX2e <2014/05/01>
+Babel <3.9k> and hyphenation patterns for 78 languages loaded.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -25,24 +25,24 @@ File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 ) (./jheppub.sty
 Package: jheppub 2013/03/21 r534
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsmath.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip43
 
 For additional information on amsmath, use the `?' option.
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsgen.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks14
 \ex@=\dimen103
 ))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsbsy.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen104
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsopn.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count87
@@ -83,44 +83,44 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/epsfig.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/epsfig.sty
 Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
 \KV@toks@=\toks19
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/graphics.cfg
 File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
-Package graphics Info: Driver file: pdftex.def on input line 94.
+Package graphics Info: Driver file: pdftex.def on input line 91.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count99
@@ -131,29 +131,29 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \epsfxsize=\dimen114
 \epsfysize=\dimen115
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/natbib/natbib.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip46
 \bibsep=\skip47
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count100
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/color.sty
-Package: color 2014/10/28 v1.1a Standard LaTeX Color (DPC)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2014/04/23 v1.1a Standard LaTeX Color (DPC)
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/color.cfg
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/color.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
-Package color Info: Driver file: pdftex.def on input line 142.
+Package color Info: Driver file: pdftex.def on input line 137.
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
 Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
 
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
 Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
@@ -194,25 +194,25 @@ Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
 Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+(/usr/local/texlive/2014/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/auxhook.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
 \@linkdim=\dimen116
 \Hy@linkcounter=\count101
 \Hy@pagecounter=\count102
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/pd1enc.def
+(/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 )
 \Hy@SavedSpaceFactor=\count103
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 4319.
@@ -229,7 +229,7 @@ Package hyperref Info: Backreferencing OFF on input line 4463.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
 \c@Hy@tempcnt=\count104
-(/usr/local/texlive/2015/texmf-dist/tex/latex/url/url.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -254,12 +254,12 @@ LaTeX Info: Redefining \pageref on input line 6369.
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
 \Fld@listcount=\count109
 \c@bookmark@seq@number=\count110
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
@@ -274,10 +274,10 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 LaTeX Font Info:    Try loading font information for OT1+phv on input line 159.
 
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1phv.fd
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 ))
-(/usr/local/texlive/2015/texmf-dist/tex/generic/ulem/ulem.sty
+(/usr/local/texlive/2014/texmf-dist/tex/generic/ulem/ulem.sty
 \UL@box=\box28
 \UL@hyphenbox=\box29
 \UL@skip=\skip50
@@ -293,40 +293,25 @@ Package: ulem 2012/05/18
 LaTeX Warning: Unused global option(s):
     [notoc].
 
-(./VJets.aux
-
-LaTeX Warning: Label `fig:ptNNLO' multiply defined.
-
-
-LaTeX Warning: Label `fig:ptNNLO' multiply defined.
-
-
-LaTeX Warning: Label `fig:ptNNLO' multiply defined.
-
-
-LaTeX Warning: Label `fig:ptNNLO' multiply defined.
-
-
-LaTeX Warning: Label `fig:ptNNLO' multiply defined.
-
-)
+(./VJets.aux)
 \openout1 = `VJets.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
- (/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+
+(/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count113
 \scratchdimen=\dimen123
@@ -339,10 +324,10 @@ LaTeX Font Info:    ... okay on input line 74.
 \MPnumerator=\count117
 \makeMPintoPDFobject=\count118
 \everyMPtoPDFconversion=\toks25
-) (/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
 )
 Package grfext Info: Graphics extension search list:
@@ -350,37 +335,37 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \AtBeginShipoutBox=\box32
-Package hyperref Info: Link coloring ON on input line 74.
+Package hyperref Info: Link coloring ON on input line 76.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count119
 )
-LaTeX Info: Redefining \ref on input line 74.
-LaTeX Info: Redefining \pageref on input line 74.
-LaTeX Info: Redefining \nameref on input line 74.
+LaTeX Info: Redefining \ref on input line 76.
+LaTeX Info: Redefining \pageref on input line 76.
+LaTeX Info: Redefining \nameref on input line 76.
 
 (./VJets.out) (./VJets.out)
 \@outlinefile=\write3
 \openout3 = `VJets.out'.
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 75.
+LaTeX Font Info:    Try loading font information for U+msa on input line 77.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 75.
+LaTeX Font Info:    Try loading font information for U+msb on input line 77.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 Missing character: There is no Ã in font cmti10!
@@ -389,8 +374,6 @@ Missing character: There is no Ã in font cmti10!
 Missing character: There is no ¤ in font cmti10!
 Missing character: There is no Ã in font cmti10!
 Missing character: There is no ¼ in font cmti10!
-Missing character: There is no Ã in font cmti10!
-Missing character: There is no   in font cmti10!
 
 
 Package JHEP Warning: E-mails are missing.
@@ -398,339 +381,359 @@ Package JHEP Warning: E-mails are missing.
 
 [0
 
-{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 (./VJets.toc)
 \tf@toc=\write4
 \openout4 = `VJets.toc'.
 
- [1] [2]
-<figures_results_comb_hJetNTin.png, id=98, 597.23125pt x 845.1575pt>
+ [1]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 119.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 119.
+
+[2] <figures_results_comb_hJetNTin.png, id=105, 597.23125pt x 845.1575pt>
 File: figures_results_comb_hJetNTin.png Graphic file (type png)
 
 <use figures_results_comb_hJetNTin.png>
 Package pdftex.def Info: figures_results_comb_hJetNTin.png used on input line 1
-21.
+43.
 (pdftex.def)             Requested size: 212.95006pt x 301.35486pt.
 
-<figures_results_comb_hHT1jT.png, id=100, 597.23125pt x 845.1575pt>
+<figures_results_comb_hHT1jT.png, id=107, 597.23125pt x 845.1575pt>
 File: figures_results_comb_hHT1jT.png Graphic file (type png)
 
 <use figures_results_comb_hHT1jT.png>
-Package pdftex.def Info: figures_results_comb_hHT1jT.png used on input line 122
+Package pdftex.def Info: figures_results_comb_hHT1jT.png used on input line 144
 .
 (pdftex.def)             Requested size: 212.95006pt x 301.35486pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [3 <./figures_results_comb_hJetNTin.png> <./figures_results_comb_hHT1jT.png>]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
-
-<ptZ-ptgamma-CMS.pdf, id=117, 475.89525pt x 480.10847pt>
+ [4]
+<ptZ-ptgamma-CMS.pdf, id=135, 475.89525pt x 480.10847pt>
 File: ptZ-ptgamma-CMS.pdf Graphic file (type pdf)
 
 <use ptZ-ptgamma-CMS.pdf>
-Package pdftex.def Info: ptZ-ptgamma-CMS.pdf used on input line 151.
+Package pdftex.def Info: ptZ-ptgamma-CMS.pdf used on input line 173.
 (pdftex.def)             Requested size: 387.18312pt x 390.62196pt.
 
-<ZgammaratioCMS.pdf, id=118, 432.26227pt x 359.80403pt>
+<ZgammaratioCMS.pdf, id=138, 432.26227pt x 359.80403pt>
 File: ZgammaratioCMS.pdf Graphic file (type pdf)
 
 <use ZgammaratioCMS.pdf>
-Package pdftex.def Info: ZgammaratioCMS.pdf used on input line 158.
+Package pdftex.def Info: ZgammaratioCMS.pdf used on input line 180.
 (pdftex.def)             Requested size: 387.18312pt x 322.28888pt.
-
+ [5 <./ptZ-ptgamma-CMS.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [4]
-[5 <./ptZ-ptgamma-CMS.pdf>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+ [6 <./ZgammaratioCMS.pdf>]
+<ATLAS_ptz_bin_ratNLO_NNLOFull.pdf, id=402, 505.89pt x 505.89pt>
+File: ATLAS_ptz_bin_ratNLO_NNLOFull.pdf Graphic file (type pdf)
 
- [6 <./ZgammaratioCMS.pdf>] <ptZNNLO.pdf, id=374, 218.23933pt x 217.61761pt>
+<use ATLAS_ptz_bin_ratNLO_NNLOFull.pdf>
+Package pdftex.def Info: ATLAS_ptz_bin_ratNLO_NNLOFull.pdf used on input line 2
+53.
+(pdftex.def)             Requested size: 212.95006pt x 212.95093pt.
+
+<ptZNNLO.pdf, id=403, 218.23933pt x 217.61761pt>
 File: ptZNNLO.pdf Graphic file (type pdf)
-
-<use ptZNNLO.pdf>
-Package pdftex.def Info: ptZNNLO.pdf used on input line 183.
+ <use ptZNNLO.pdf>
+Package pdftex.def Info: ptZNNLO.pdf used on input line 254.
 (pdftex.def)             Requested size: 212.95006pt x 212.3473pt.
- <pt_gam.pdf, id=375, 361.35pt x 439.6425pt>
+
+<pt_gam.pdf, id=406, 361.35pt x 439.6425pt>
 File: pt_gam.pdf Graphic file (type pdf)
  <use pt_gam.pdf>
-Package pdftex.def Info: pt_gam.pdf used on input line 190.
+Package pdftex.def Info: pt_gam.pdf used on input line 266.
 (pdftex.def)             Requested size: 212.95006pt x 259.09164pt.
 
-<pt_gam_EW_norm.pdf, id=376, 397.485pt x 381.425pt>
-File: pt_gam_EW_norm.pdf Graphic file (type pdf)
- <use pt_gam_EW_norm.pdf>
-Package pdftex.def Info: pt_gam_EW_norm.pdf used on input line 191.
-(pdftex.def)             Requested size: 212.95006pt x 204.34845pt.
+Underfull \vbox (badness 2261) has occurred while \output is active []
 
-<ptgam_uncert.pdf, id=377, 433.62pt x 480.79625pt>
-File: ptgam_uncert.pdf Graphic file (type pdf)
- <use ptgam_uncert.pdf>
-Package pdftex.def Info: ptgam_uncert.pdf used on input line 198.
-(pdftex.def)             Requested size: 212.95006pt x 236.12042pt.
+ [7 <./ATLAS_ptz_bin_ratNLO_NNLOFull.pdf> <./ptZNNLO.pdf>] [8 <./pt_gam.pdf>]
 
-<Zga_ratio_8TeV.pdf, id=378, 361.35pt x 415.5525pt>
-File: Zga_ratio_8TeV.pdf Graphic file (type pdf)
- <use Zga_ratio_8TeV.pdf>
-Package pdftex.def Info: Zga_ratio_8TeV.pdf used on input line 205.
-(pdftex.def)             Requested size: 212.95006pt x 244.89485pt.
-
-<Zga_ratioEW_8TeV.pdf, id=379, 361.35pt x 415.5525pt>
-File: Zga_ratioEW_8TeV.pdf Graphic file (type pdf)
-
-<use Zga_ratioEW_8TeV.pdf>
-Package pdftex.def Info: Zga_ratioEW_8TeV.pdf used on input line 206.
-(pdftex.def)             Requested size: 212.95006pt x 244.89485pt.
- <ptZga_uncert.pdf, id=380, 433.62pt x 480.79625pt>
-File: ptZga_uncert.pdf Graphic file (type pdf)
-
-<use ptZga_uncert.pdf>
-Package pdftex.def Info: ptZga_uncert.pdf used on input line 213.
-(pdftex.def)             Requested size: 212.95006pt x 236.12042pt.
- [7 <./ptZNNLO.pdf>]
-
-pdfTeX warning: pdflatex (file ./pTW_13TeV_incl.pdf): PDF inclusion: found PDF 
-version <1.6>, but at most version <1.5> allowed
-<pTW_13TeV_incl.pdf, id=550, 578.16pt x 433.62pt>
+pdfTeX warning: /usr/texbin/pdflatex (file ./pTW_13TeV_incl.pdf): PDF inclusion
+: found PDF version <1.6>, but at most version <1.5> allowed
+<pTW_13TeV_incl.pdf, id=842, 578.16pt x 433.62pt>
 File: pTW_13TeV_incl.pdf Graphic file (type pdf)
  <use pTW_13TeV_incl.pdf>
-Package pdftex.def Info: pTW_13TeV_incl.pdf used on input line 236.
+Package pdftex.def Info: pTW_13TeV_incl.pdf used on input line 313.
 (pdftex.def)             Requested size: 212.95006pt x 159.70908pt.
 
 
-pdfTeX warning: pdflatex (file ./pTW_13TeV_excl.pdf): PDF inclusion: found PDF 
-version <1.6>, but at most version <1.5> allowed
-<pTW_13TeV_excl.pdf, id=551, 578.16pt x 433.62pt>
+pdfTeX warning: /usr/texbin/pdflatex (file ./pTW_13TeV_excl.pdf): PDF inclusion
+: found PDF version <1.6>, but at most version <1.5> allowed
+<pTW_13TeV_excl.pdf, id=843, 578.16pt x 433.62pt>
 File: pTW_13TeV_excl.pdf Graphic file (type pdf)
  <use pTW_13TeV_excl.pdf>
-Package pdftex.def Info: pTW_13TeV_excl.pdf used on input line 237.
+Package pdftex.def Info: pTW_13TeV_excl.pdf used on input line 314.
 (pdftex.def)             Requested size: 212.95006pt x 159.70908pt.
 
-[8 <./pt_gam.pdf> <./pt_gam_EW_norm.pdf
 
-pdfTeX warning: pdflatex (file ./pt_gam_EW_norm.pdf): PDF inclusion: multiple p
-dfs with page group included in a single page
->]
-
-pdfTeX warning: pdflatex (file ./HT_13TeV_incl.pdf): PDF inclusion: found PDF v
-ersion <1.6>, but at most version <1.5> allowed
-<HT_13TeV_incl.pdf, id=836, 578.16pt x 433.62pt>
+pdfTeX warning: /usr/texbin/pdflatex (file ./HT_13TeV_incl.pdf): PDF inclusion:
+ found PDF version <1.6>, but at most version <1.5> allowed
+<HT_13TeV_incl.pdf, id=846, 578.16pt x 433.62pt>
 File: HT_13TeV_incl.pdf Graphic file (type pdf)
  <use HT_13TeV_incl.pdf>
-Package pdftex.def Info: HT_13TeV_incl.pdf used on input line 245.
+Package pdftex.def Info: HT_13TeV_incl.pdf used on input line 322.
 (pdftex.def)             Requested size: 212.95006pt x 159.70908pt.
 
 
-pdfTeX warning: pdflatex (file ./HT_13TeV_excl.pdf): PDF inclusion: found PDF v
-ersion <1.6>, but at most version <1.5> allowed
-<HT_13TeV_excl.pdf, id=837, 578.16pt x 433.62pt>
+pdfTeX warning: /usr/texbin/pdflatex (file ./HT_13TeV_excl.pdf): PDF inclusion:
+ found PDF version <1.6>, but at most version <1.5> allowed
+<HT_13TeV_excl.pdf, id=847, 578.16pt x 433.62pt>
 File: HT_13TeV_excl.pdf Graphic file (type pdf)
  <use HT_13TeV_excl.pdf>
-Package pdftex.def Info: HT_13TeV_excl.pdf used on input line 246.
+Package pdftex.def Info: HT_13TeV_excl.pdf used on input line 323.
 (pdftex.def)             Requested size: 212.95006pt x 159.70908pt.
 
-Underfull \vbox (badness 2591) has occurred while \output is active []
+[9 <./pTW_13TeV_incl.pdf> <./pTW_13TeV_excl.pdf
 
- [9 <./ptgam_uncert.pdf> <./Zga_ratio_8TeV.pdf
+pdfTeX warning: /usr/texbin/pdflatex (file ./pTW_13TeV_excl.pdf): PDF inclusion
+: multiple pdfs with page group included in a single page
+> <./HT_13TeV_incl.pdf
 
-pdfTeX warning: pdflatex (file ./Zga_ratio_8TeV.pdf): PDF inclusion: multiple p
-dfs with page group included in a single page
-> <./Zga_ratioEW_8TeV.pdf
+pdfTeX warning: /usr/texbin/pdflatex (file ./HT_13TeV_incl.pdf): PDF inclusion:
+ multiple pdfs with page group included in a single page
+> <./HT_13TeV_excl.pdf
 
-pdfTeX warning: pdflatex (file ./Zga_ratioEW_8TeV.pdf): PDF inclusion: multiple
- pdfs with page group included in a single page
->] [10 <./ptZga_uncert.pdf> <./pTW_13TeV_incl.pdf
-
-pdfTeX warning: pdflatex (file ./pTW_13TeV_incl.pdf): PDF inclusion: multiple p
-dfs with page group included in a single page
-> <./pTW_13TeV_excl.pdf
-
-pdfTeX warning: pdflatex (file ./pTW_13TeV_excl.pdf): PDF inclusion: multiple p
-dfs with page group included in a single page
+pdfTeX warning: /usr/texbin/pdflatex (file ./HT_13TeV_excl.pdf): PDF inclusion:
+ multiple pdfs with page group included in a single page
 >]
 
-pdfTeX warning: pdflatex (file ./delrjW.pdf): PDF inclusion: found PDF version 
-<1.6>, but at most version <1.5> allowed
-<delrjW.pdf, id=1505, 578.16pt x 433.62pt>
+pdfTeX warning: /usr/texbin/pdflatex (file ./delrjW.pdf): PDF inclusion: found 
+PDF version <1.6>, but at most version <1.5> allowed
+<delrjW.pdf, id=1265, 578.16pt x 433.62pt>
 File: delrjW.pdf Graphic file (type pdf)
  <use delrjW.pdf>
-Package pdftex.def Info: delrjW.pdf used on input line 255.
+Package pdftex.def Info: delrjW.pdf used on input line 335.
 (pdftex.def)             Requested size: 212.95006pt x 159.70908pt.
- [11 <./HT_13TeV_incl.pdf> <./HT_13TeV_excl.pdf
 
-pdfTeX warning: pdflatex (file ./HT_13TeV_excl.pdf): PDF inclusion: multiple pd
-fs with page group included in a single page
-> <./delrjW.pdf
+<all_EW.pdf, id=1274, 337.16966pt x 583.2791pt>
+File: all_EW.pdf Graphic file (type pdf)
+ <use all_EW.pdf>
+Package pdftex.def Info: all_EW.pdf used on input line 356.
+(pdftex.def)             Requested size: 212.95006pt x 368.39339pt.
+ [10 <./delrjW.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-pdfTeX warning: pdflatex (file ./delrjW.pdf): PDF inclusion: multiple pdfs with
- page group included in a single page
->] <Zgammaratio.pdf, id=1788, 337.16966pt x 361.35pt>
+ [11 <./all_EW.pdf>] <ppenexj_incl_pT_j1_gp.pdf, id=1391, 271.0125pt x 360.3462
+5pt>
+File: ppenexj_incl_pT_j1_gp.pdf Graphic file (type pdf)
+
+<use ppenexj_incl_pT_j1_gp.pdf>
+Package pdftex.def Info: ppenexj_incl_pT_j1_gp.pdf used on input line 396.
+(pdftex.def)             Requested size: 182.83902pt x 243.11874pt.
+
+<meps_pT_j1_log.pdf, id=1392, 337.16966pt x 389.80632pt>
+File: meps_pT_j1_log.pdf Graphic file (type pdf)
+
+<use meps_pT_j1_log.pdf>
+Package pdftex.def Info: meps_pT_j1_log.pdf used on input line 397.
+(pdftex.def)             Requested size: 212.95006pt x 246.19786pt.
+ <Zgammaratio.pdf, id=1396, 337.16966pt x 361.35pt>
 File: Zgammaratio.pdf Graphic file (type pdf)
- <use Zgammaratio.pdf>
-Package pdftex.def Info: Zgammaratio.pdf used on input line 273.
-(pdftex.def)             Requested size: 212.95006pt x 228.22513pt.
 
-<WinJet_dR_mu_jet_1jex2jin.pdf, id=1789, 394.07225pt x 418.2526pt>
+<use Zgammaratio.pdf>
+Package pdftex.def Info: Zgammaratio.pdf used on input line 423.
+(pdftex.def)             Requested size: 212.95006pt x 228.22513pt.
+ [12 <./ppenexj_incl_pT_j1_gp.pdf> <./meps_pT_j1_log.pdf>] <WinJet_dR_mu_jet_1j
+ex2jin.pdf, id=1461, 394.07225pt x 418.2526pt>
 File: WinJet_dR_mu_jet_1jex2jin.pdf Graphic file (type pdf)
 
 <use WinJet_dR_mu_jet_1jex2jin.pdf>
-Package pdftex.def Info: WinJet_dR_mu_jet_1jex2jin.pdf used on input line 280.
+Package pdftex.def Info: WinJet_dR_mu_jet_1jex2jin.pdf used on input line 434.
 (pdftex.def)             Requested size: 212.95006pt x 226.01897pt.
 
-<fig_05b.pdf, id=1790, 549.05125pt x 739.76375pt>
+<fig_05b.pdf, id=1462, 549.05125pt x 739.76375pt>
 File: fig_05b.pdf Graphic file (type pdf)
  <use fig_05b.pdf>
-Package pdftex.def Info: fig_05b.pdf used on input line 281.
+Package pdftex.def Info: fig_05b.pdf used on input line 435.
 (pdftex.def)             Requested size: 212.95006pt x 286.9151pt.
 
-Underfull \vbox (badness 1609) has occurred while \output is active []
+Underfull \vbox (badness 3138) has occurred while \output is active []
 
- [12 <./Zgammaratio.pdf>] [13 <./WinJet_dR_mu_jet_1jex2jin.pdf> <./fig_05b.pdf>
-]
+ [13 <./Zgammaratio.pdf>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 465.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 465.
+
+[14 <./WinJet_dR_mu_jet_1jex2jin.pdf> <./fig_05b.pdf>]
 Package epstopdf Info: Source file: <lumiGG_baselineP8tev.eps>
-(epstopdf)                    date: 2017-07-20 10:43:50
+(epstopdf)                    date: 2017-07-27 14:29:27
 (epstopdf)                    size: 12354 bytes
 (epstopdf)             Output file: <lumiGG_baselineP8tev-eps-converted-to.pdf>
 
-(epstopdf)                    date: 2017-07-20 10:44:50
+(epstopdf)                    date: 2017-07-27 14:29:27
 (epstopdf)                    size: 11511 bytes
 (epstopdf)             Command: <repstopdf --outfile=lumiGG_baselineP8tev-eps-c
 onverted-to.pdf lumiGG_baselineP8tev.eps>
-(epstopdf)             \includegraphics on input line 369.
+(epstopdf)             \includegraphics on input line 528.
 Package epstopdf Info: Output file is already uptodate.
 
-<lumiGG_baselineP8tev-eps-converted-to.pdf, id=1892, 569.12625pt x 385.44pt>
+<lumiGG_baselineP8tev-eps-converted-to.pdf, id=1561, 569.12625pt x 385.44pt>
 File: lumiGG_baselineP8tev-eps-converted-to.pdf Graphic file (type pdf)
 
 <use lumiGG_baselineP8tev-eps-converted-to.pdf>
 Package pdftex.def Info: lumiGG_baselineP8tev-eps-converted-to.pdf used on inpu
-t line 369.
+t line 528.
 (pdftex.def)             Requested size: 137.66919pt x 93.23677pt.
 Package epstopdf Info: Source file: <lumiQG_baselineP8tev.eps>
-(epstopdf)                    date: 2017-07-20 10:43:56
+(epstopdf)                    date: 2017-07-27 14:29:27
 (epstopdf)                    size: 12568 bytes
 (epstopdf)             Output file: <lumiQG_baselineP8tev-eps-converted-to.pdf>
 
-(epstopdf)                    date: 2017-07-20 10:44:51
+(epstopdf)                    date: 2017-07-27 14:29:27
 (epstopdf)                    size: 11722 bytes
 (epstopdf)             Command: <repstopdf --outfile=lumiQG_baselineP8tev-eps-c
 onverted-to.pdf lumiQG_baselineP8tev.eps>
-(epstopdf)             \includegraphics on input line 370.
+(epstopdf)             \includegraphics on input line 529.
 Package epstopdf Info: Output file is already uptodate.
 
-<lumiQG_baselineP8tev-eps-converted-to.pdf, id=1893, 569.12625pt x 385.44pt>
+<lumiQG_baselineP8tev-eps-converted-to.pdf, id=1562, 569.12625pt x 385.44pt>
 File: lumiQG_baselineP8tev-eps-converted-to.pdf Graphic file (type pdf)
 
 <use lumiQG_baselineP8tev-eps-converted-to.pdf>
 Package pdftex.def Info: lumiQG_baselineP8tev-eps-converted-to.pdf used on inpu
-t line 370.
+t line 529.
 (pdftex.def)             Requested size: 137.66919pt x 93.23677pt.
 Package epstopdf Info: Source file: <lumiQQ_baselineP8tev.eps>
-(epstopdf)                    date: 2017-07-20 10:43:38
+(epstopdf)                    date: 2017-07-27 14:29:27
 (epstopdf)                    size: 12377 bytes
 (epstopdf)             Output file: <lumiQQ_baselineP8tev-eps-converted-to.pdf>
 
-(epstopdf)                    date: 2017-07-20 10:44:51
+(epstopdf)                    date: 2017-07-27 14:29:27
 (epstopdf)                    size: 11784 bytes
 (epstopdf)             Command: <repstopdf --outfile=lumiQQ_baselineP8tev-eps-c
 onverted-to.pdf lumiQQ_baselineP8tev.eps>
-(epstopdf)             \includegraphics on input line 371.
+(epstopdf)             \includegraphics on input line 530.
 Package epstopdf Info: Output file is already uptodate.
 
-<lumiQQ_baselineP8tev-eps-converted-to.pdf, id=1894, 569.12625pt x 385.44pt>
+<lumiQQ_baselineP8tev-eps-converted-to.pdf, id=1563, 569.12625pt x 385.44pt>
 File: lumiQQ_baselineP8tev-eps-converted-to.pdf Graphic file (type pdf)
 
 <use lumiQQ_baselineP8tev-eps-converted-to.pdf>
 Package pdftex.def Info: lumiQQ_baselineP8tev-eps-converted-to.pdf used on inpu
-t line 371.
+t line 530.
 (pdftex.def)             Requested size: 137.66919pt x 93.23677pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [14 <./lumiGG_baselineP8tev-eps-converted-to.pdf> <./lumiQG_baselineP8tev-eps-
+ [15 <./lumiGG_baselineP8tev-eps-converted-to.pdf> <./lumiQG_baselineP8tev-eps-
 converted-to.pdf> <./lumiQQ_baselineP8tev-eps-converted-to.pdf>]
-<systable.pdf, id=1940, 278.90138pt x 297.2713pt>
+<systable.pdf, id=1609, 278.90138pt x 297.2713pt>
 File: systable.pdf Graphic file (type pdf)
  <use systable.pdf>
-Package pdftex.def Info: systable.pdf used on input line 389.
+Package pdftex.def Info: systable.pdf used on input line 549.
 (pdftex.def)             Requested size: 212.95006pt x 226.98088pt.
 
-<systable2.pdf, id=1941, 280.56348pt x 212.75845pt>
+<systable2.pdf, id=1610, 280.56348pt x 212.75845pt>
 File: systable2.pdf Graphic file (type pdf)
  <use systable2.pdf>
-Package pdftex.def Info: systable2.pdf used on input line 390.
+Package pdftex.def Info: systable2.pdf used on input line 550.
 (pdftex.def)             Requested size: 212.95006pt x 161.48384pt.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 399.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 559.
 
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 399.
- [15]
-Overfull \hbox (35.11339pt too wide) in paragraph at lines 401--402
-\OT1/cmr/m/n/10.95 tions. Ap-prox-i-mate fixed or-der NLO EWK cor-rec-tions are
- avail-able in \OT1/cmr/m/sc/10.95 Sherpa\OT1/cmr/m/n/10.95 +\OT1/cmr/m/sc/10.9
-5 OpenLoops
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 559.
+ [16]
+Overfull \hbox (26.5967pt too wide) in paragraph at lines 561--562
+\OT1/cmr/m/n/10.95 tions. Ap-prox-i-mate fixed or-der NLO EW cor-rec-tions are 
+avail-able in \OT1/cmr/m/sc/10.95 Sherpa\OT1/cmr/m/n/10.95 +\OT1/cmr/m/sc/10.95
+ OpenLoops
  []
 
-[16 <./systable.pdf> <./systable2.pdf>]
-Overfull \hbox (1.39145pt too wide) in paragraph at lines 409--410
-[]\OT1/cmr/m/n/10.95 Need higher-order EW cor-rec-tions for QCD & EW V+jets in 
-VBF topolo-gies. \OT1/cmr/m/sc/10.95 Sherpa
+[17 <./systable.pdf> <./systable2.pdf>]
+Overfull \hbox (1.99977pt too wide) in paragraph at lines 570--571
+[]\OT1/cmr/m/n/10.95 Need higher-order EW cor-rec-tions for QCD & EW $\OML/cmm/
+m/it/10.95 V\OT1/cmr/m/n/10.95 +$jets in VBF topolo-gies. \OT1/cmr/m/sc/10.95 S
+herpa
  []
 
-(./VJets.bbl [17])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 415.
- [18]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 415.
+(./VJets.bbl [18]
+Missing character: There is no â in font cmr7!
+Missing character: There is no ˆ in font cmr7!
+Missing character: There is no — in font cmr7!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+ [19]
+Missing character: There is no â in font cmti10!
+Missing character: There is no € in font cmti10!
+Missing character: There is no “ in font cmti10!
+Missing character: There is no â in font cmti10!
+Missing character: There is no € in font cmti10!
+Missing character: There is no “ in font cmti10!
+Missing character: There is no â in font cmti10!
+Missing character: There is no € in font cmti10!
+Missing character: There is no “ in font cmti10!
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 576.
+ [20]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 576.
  (./VJets.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 415.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 415.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 576.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 576.
 Package rerunfilecheck Info: File `VJets.out' has not changed.
-(rerunfilecheck)             Checksum: B95E05A31494B9A9F908AF83C778009E;538.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 415.
+(rerunfilecheck)             Checksum: 7A1085B48A40DF78E27CE6DCD19FDA5C;616.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 576.
  ) 
 Here is how much of TeX's memory you used:
- 6891 strings out of 493089
- 99489 string characters out of 6134842
- 188937 words of memory out of 5000000
- 10191 multiletter control sequences out of 15000+600000
- 14445 words of font info for 54 fonts, out of 8000000 for 9000
+ 6975 strings out of 493117
+ 101003 string characters out of 6135433
+ 193866 words of memory out of 5000000
+ 10233 multiletter control sequences out of 15000+600000
+ 18654 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,11n,30p,1580b,521s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pf
-b></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb>
-</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
-/usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></u
-sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr
-/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/l
-ocal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/loca
-l/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/t
-exlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/
-texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/t
-exlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/tex
-live/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texl
-ive/2015/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb></usr/local/texlive/2015
-/texmf-dist/fonts/type1/public/mathpazo/fplmbi.pfb></usr/local/texlive/2015/tex
-mf-dist/fonts/type1/public/mathpazo/fplmr.pfb></usr/local/texlive/2015/texmf-di
-st/fonts/type1/public/mathpazo/fplmri.pfb></usr/local/texlive/2015/texmf-dist/f
-onts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/typ
-e1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/
-helvetic/uhvr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/palatin
-o/uplb8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/palatino/uplbi
-8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-</usr/local/texlive/2015/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on VJets.pdf (19 pages, 1876753 bytes).
+ 41i,11n,31p,1609b,581s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pf
+b></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb>
+</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
+/usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></
+usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></us
+r/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/
+local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/lo
+cal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/loca
+l/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/t
+exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texl
+ive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive
+/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/20
+14/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2
+014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/20
+14/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2014
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2014/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2014/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2014/tex
+mf-dist/fonts/type1/public/fpl/fplbj8a.pfb></usr/local/texlive/2014/texmf-dist/
+fonts/type1/public/mathpazo/fplmbi.pfb></usr/local/texlive/2014/texmf-dist/font
+s/type1/public/mathpazo/fplmr.pfb></usr/local/texlive/2014/texmf-dist/fonts/typ
+e1/public/mathpazo/fplmri.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/p
+ublic/fpl/fplrc8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/helve
+tic/uhvb8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/helvetic/uhv
+r8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb
+></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr
+/local/texlive/2014/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/
+texlive/2014/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on VJets.pdf (21 pages, 1667559 bytes).
 PDF statistics:
- 2083 PDF objects out of 2487 (max. 8388607)
- 1280 compressed objects within 13 object streams
- 72 named destinations out of 1000 (max. 500000)
- 185 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1856 PDF objects out of 2073 (max. 8388607)
+ 1173 compressed objects within 12 object streams
+ 87 named destinations out of 1000 (max. 500000)
+ 188 words of extra memory for PDF output out of 10000 (max. 10000000)
 
