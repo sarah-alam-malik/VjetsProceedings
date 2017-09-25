@@ -272,4 +272,10 @@ R.~Boughezal, A.~Guffanti, F.~Petriello and M.~Ubiali, \textit{{The impact of
   in final states with an energetic jet or a hadronically decaying W or Z boson
   using $35.9~\mathrm{fb}^{-1}$ of data at $\sqrt{s} = 13~\mathrm{TeV}$}}, .
 
+\bibitem{Ball:2017nwa}
+  R.~D.~Ball {\it et al.} [NNPDF Collaboration],
+  %``Parton distributions from high-precision collider data,''
+  arXiv:1706.00428 [hep-ph].
+  %%CITATION = ARXIV:1706.00428;%%
+  %18 citations counted in INSPIRE as of 21 Sep 2017
 \end{thebibliography}\endgroup

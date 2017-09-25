@@ -1,9 +1,9 @@
 \contentsline {section}{\numberline {1}Introduction}{1}{section.1}
 \contentsline {section}{\numberline {2}Experimental overview of $V+$jet measurements}{2}{section.2}
 \contentsline {section}{\numberline {3}Summary of theoretical developments}{5}{section.3}
-\contentsline {subsection}{\numberline {3.1}Higher order QCD and EW corrections}{5}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.1}Higher order QCD and EW corrections}{6}{subsection.3.1}
 \contentsline {subsection}{\numberline {3.2}Higher order EW corrections}{10}{subsection.3.2}
 \contentsline {subsection}{\numberline {3.3}Status of MC generators}{12}{subsection.3.3}
 \contentsline {subsection}{\numberline {3.4}PDF constraints from $V+$jets}{14}{subsection.3.4}
 \contentsline {section}{\numberline {4}Backgrounds to BSM searches}{16}{section.4}
-\contentsline {section}{\numberline {5}Outcome/wishlist}{16}{section.5}
+\contentsline {section}{\numberline {5}Outcome/wishlist}{17}{section.5}
